@@ -7,7 +7,7 @@ Esta tarefa descreve como identificar, elicitar e documentar os requisitos de ex
 Observação:
 Os resultados obtidos servem como base para a definição da Visão da Explicabilidade e para o posterior detalhamento dos requisitos de explicabilidade.
 
-[Disciplina: Requisitos](requisitos.md)
+[Disciplina: Requisitos](disciplina/requisitos.md)
 
 **Objetivo**
 
