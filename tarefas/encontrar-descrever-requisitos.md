@@ -19,8 +19,7 @@ O objetivo é obter uma compreensão inicial das necessidades de explicabilidade
 
 **Papéis**  
 - **Executor Principal:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos.md)  
-- **Executores Adicionais:** [Arquiteto de Software](../papeis/arquiteto-software.md), [Gerente de Projetos](../papeis/gerente-projeto.md), 
-[Especialista Ética](../papeis/especialista-etica-regulacao) e [Stakeholders](../papeis/stakeholders)
+- **Executores Adicionais:** [Arquiteto de Software](../papeis/arquiteto-software.md), [Desenvolvedor](../papeis/desenvolvedor.md), [Stakeholders](../papeis/stakeholders.md), [Testador](../papeis/testador.md), [Especialista Regulação](../papeis/especialista-etica-regulacao.md)
 
 **Entradas**  
 - **Obrigatório:**  
