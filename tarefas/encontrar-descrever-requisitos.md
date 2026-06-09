@@ -2,7 +2,7 @@
 
 **Descrição:** 
 
-Esta tarefa descreve como identificar, elicitar e documentar os requisitos de explicabilidade de sistemas baseados em Aprendizado de Máquina, de forma que o escopo das necessidades de explicação possa ser determinado e alinhado aos objetivos dos stakeholders.
+Esta tarefa descreve como identificar os requisitos de explicabilidade de sistemas baseados em Inteligência Artificial, de forma que o escopo das necessidades de explicação possa ser determinado e alinhado aos objetivos dos stakeholders.
 
 Observação:
 Os resultados obtidos servem como base para a definição da Visão da Explicabilidade e para o posterior detalhamento dos requisitos de explicabilidade.
@@ -19,7 +19,7 @@ O objetivo é obter uma compreensão inicial das necessidades de explicabilidade
 
 **Papéis**  
 - **Executor Principal:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos.md)  
-- **Executores Adicionais:** [Arquiteto de Software](../papeis/arquiteto-software.md), [Desenvolvedor](../papeis/desenvolvedor.md), [Stakeholders](../papeis/stakeholders.md), [Testador](../papeis/testador.md), [Especialista Regulação](../papeis/especialista-etica-regulacao.md), [Especialista em IA](../papeis/especialista-IA.md)
+- **Executores Adicionais:** [Arquiteto de Software](../papeis/arquiteto-software.md), [Desenvolvedor](../papeis/desenvolvedor.md), [Especialista de Domínio](../papeis/especialista-dominio.md), [Testador](../papeis/testador.md), [Especialista Regulação](../papeis/especialista-etica-regulacao.md), [Especialista em IA](../papeis/especialista-IA.md)
 
 **Entradas**  
 - **Obrigatório:**  
