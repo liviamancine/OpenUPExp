@@ -35,9 +35,18 @@ O objetivo é obter uma compreensão inicial das necessidades de explicabilidade
 
 ***1. Obter Informações ***
 **O que fazer**
-Utilize diferentes técnicas de elicitação para compreender as necessidades de explicabilidade dos stakeholders. Entrevistas, workshops, observação do trabalho, análise documental e protótipos podem ser utilizados para identificar expectativas, preocupações e necessidades relacionadas à compreensão das decisões apoiadas por sistemas baseados em Inteligência Artificial.
+dentificar e coletar informações relevantes sobre o sistema baseado em Inteligência Artificial, seu contexto de uso, os stakeholders envolvidos, os processos decisórios apoiados e as necessidades iniciais de explicabilidade. A elicitação pode ser realizada por meio de entrevistas, workshops, observação de atividades, análise documental, protótipos ou outras técnicas adequadas ao contexto do projeto.
+
+O objetivo é compreender:
+
+quais decisões são apoiadas pelo sistema;
+quais stakeholders são impactados;
+quais preocupações existem em relação à transparência e compreensão das decisões;
+quais restrições regulatórias, organizacionais ou éticas devem ser consideradas.
 
 **Quem**
+
+Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio, Especialistas em IA/AM (quando aplicável)
 
 **Onde registrar**
 
