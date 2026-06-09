@@ -29,7 +29,7 @@ O objetivo é obter uma compreensão inicial das necessidades de explicabilidade
   - Nenhum
 - **Saídas:**  
   - [Glossário](../artefatos/glossario.md)
-  - [Especificação de Explicabilidade](../artefatos/DRE.md)
+  - [Especificação da Explicabilidade](../artefatos/DRE.md)
 ---
 ## Passos
 
@@ -39,18 +39,25 @@ dentificar e coletar informações relevantes sobre o sistema baseado em Intelig
 
 O objetivo é compreender:
 
-quais decisões são apoiadas pelo sistema;
-quais stakeholders são impactados;
-quais preocupações existem em relação à transparência e compreensão das decisões;
-quais restrições regulatórias, organizacionais ou éticas devem ser consideradas.
+- quais decisões são apoiadas pelo sistema;
+- quais stakeholders são impactados;
+- quais preocupações existem em relação à transparência e compreensão das decisões;
+- quais restrições regulatórias, organizacionais ou éticas devem ser consideradas.
 
 **Quem**
 
 Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialistas em IA (quando aplicável)
 
 **Onde registrar**
+[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+[Glossário](../artefatos/glossario.md)
 
 **Boas Práticas**
+- Identificar stakeholders com diferentes perspectivas e responsabilidades.
+- Investigar situações em que explicações serão necessárias para apoiar decisões.
+- Considerar requisitos legais, regulatórios e organizacionais relacionados ao uso de IA.
+- Evitar discutir soluções de explicabilidade neste momento; o foco deve permanecer na compreensão das necessidades.
+- Registrar dúvidas, conflitos e riscos identificados durante a elicitação.
 
 *Perguntas úteis*
 
