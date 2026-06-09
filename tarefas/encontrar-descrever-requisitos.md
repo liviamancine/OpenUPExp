@@ -115,7 +115,7 @@ Engenheiro de Requisitos, Especialistas de Domínio e Especialistas em IA (quand
 - Avaliar quais decisões possuem maior impacto e demandam maior nível de explicação.
 - Registrar conflitos ou divergências entre expectativas dos stakeholders.
 
-***3. Identificar os stakeholders e suas necessidades de explicabilidade***
+***4. Identificar os stakeholders e suas necessidades de explicabilidade***
 
 **O que fazer**
 Identificar os stakeholders que interagem, utilizam, supervisionam ou são impactados pelas decisões apoiadas pelo sistema baseado em Inteligência Artificial.
@@ -129,15 +129,14 @@ Engenheiro de Requisitos, Especialistas de Domínio e Stakeholders.
 **Onde registrar**
 
 [[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
-[Glossário](../artefatos/glossario.md)
 
 **Boas Práticas**
 
-- Focar inicialmente nos objetivos da explicabilidade, e não nas técnicas de explicação.
-- Identificar diferentes necessidades para diferentes perfis de stakeholders.
-- Considerar requisitos regulatórios, éticos e organizacionais relacionados à transparência.
-- Avaliar quais decisões possuem maior impacto e demandam maior nível de explicação.
-- Registrar conflitos ou divergências entre expectativas dos stakeholders.
+- Considerar usuários finais, operadores, gestores, reguladores e demais partes interessadas.
+- Identificar diferentes níveis de conhecimento técnico entre os stakeholders.
+- Registrar objetivos distintos para as explicações, como compreensão, confiança, auditoria ou conformidade.
+- Evitar assumir que todos os stakeholders possuem as mesmas necessidades de explicabilidade.
+- Validar as necessidades identificadas diretamente com os stakeholders.
 
 
 
