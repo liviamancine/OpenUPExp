@@ -81,7 +81,6 @@ Especialistas em IA/AM (quando aplicável)
 
 [Glossário](../artefatos/glossario.md)
 
-
 **Boas Práticas**
 
 - Definir termos utilizando linguagem clara e objetiva.
@@ -91,13 +90,13 @@ Especialistas em IA/AM (quando aplicável)
 - Atualizar o glossário continuamente à medida que novos termos forem identificados.
 - Garantir consistência entre os termos utilizados nos artefatos do projeto.
 
-
 ***3. Identificar os tipos de requisitos de explicabilidade relevantes ao sistema***
 
 **O que fazer**
 Identificar quais necessidades de explicabilidade são relevantes para o sistema e para seus stakeholders. O objetivo é compreender quais aspectos das decisões, recomendações ou previsões produzidas pelo sistema precisam ser explicados. Os requisitos identificados podem estar relacionados à compreensão, justificativa, transparência, rastreabilidade, auditoria, conformidade regulatória, confiança ou outros objetivos associados à explicabilidade.
 
 Esta atividade auxilia na definição do escopo inicial da explicabilidade e na identificação dos aspectos que deverão ser posteriormente detalhados.
+
 **Quem**
 
 Engenheiro de Requisitos, Especialistas de Domínio e Especialistas em IA (quando aplicável)
@@ -128,7 +127,7 @@ Engenheiro de Requisitos, Especialistas de Domínio e Stakeholders.
 
 **Onde registrar**
 
-[[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
 
 **Boas Práticas**
 
@@ -137,6 +136,54 @@ Engenheiro de Requisitos, Especialistas de Domínio e Stakeholders.
 - Registrar objetivos distintos para as explicações, como compreensão, confiança, auditoria ou conformidade.
 - Evitar assumir que todos os stakeholders possuem as mesmas necessidades de explicabilidade.
 - Validar as necessidades identificadas diretamente com os stakeholders.
+
+***5. Identificar os stakeholders e suas necessidades de explicabilidade***
+
+**O que fazer**
+
+Identificar os stakeholders que interagem, utilizam, supervisionam ou são impactados pelas decisões apoiadas pelo sistema baseado em Inteligência Artificial.
+
+Para cada stakeholder, identificar quais informações precisam ser explicadas, os objetivos dessas explicações, o contexto de uso e as expectativas relacionadas à compreensão das decisões do sistema.
+
+**Quem**
+Engenheiro de Requisitos, Stakeholders e Especialistas de Domínio
+
+**Onde registrar**
+[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+
+**Boas práticas**
+- Considerar usuários finais, operadores, gestores, reguladores e demais partes interessadas.
+- Identificar diferentes níveis de conhecimento técnico entre os stakeholders.
+- Registrar objetivos distintos para as explicações, como compreensão, confiança, auditoria ou conformidade, considerando os diversos perfis de stakeholders que necessiatem de explicabilidade.
+- Evitar assumir que todos os stakeholders possuem as mesmas necessidades de explicabilidade.
+- Validar as necessidades identificadas diretamente com os stakeholders?????
+
+
+***6. Identificar e capturar requisitos adicionais relacionados à explicabilidade***
+
+**O que fazer**
+
+Identificar restrições, dependências, pressupostos e requisitos complementares que possam influenciar a disponibilização das explicações.
+
+Esses requisitos podem estar relacionados a aspectos de desempenho, segurança, privacidade, rastreabilidade, auditoria, conformidade regulatória, documentação ou limitações técnicas do sistema de Inteligência Artificial.
+
+Quem
+Engenheiro de Requisitos
+Stakeholders
+Especialistas de Domínio
+Especialistas em IA/AM (quando aplicável)
+Onde registrar
+Visão da Explicabilidade
+Lista de Itens de Trabalho
+Boas práticas
+Considerar requisitos legais e regulatórios aplicáveis ao domínio.
+Avaliar impactos da explicabilidade sobre desempenho e experiência do usuário.
+Registrar pressupostos que possam afetar a geração das explicações.
+Identificar limitações técnicas dos modelos de IA/AM utilizados.
+Considerar necessidades de auditoria e rastreabilidade desde o início do projeto.
+
+
+
 
 
 
