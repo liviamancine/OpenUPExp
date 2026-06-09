@@ -1,18 +1,19 @@
 # Tarefa: [Nome da Fase] (Passos)
 
 **Descrição:** 
-Descreva o propósito principal deste padrão de capacidade.  
-> Exemplo: Estabelecer a visão e a viabilidade do requisito de explicabilidade, alinhando expectativas dos stakeholders e identificando aspectos iniciais como transparência e compreensibilidade.
+
+Esta tarefa descreve como identificar, elicitar e documentar os requisitos de explicabilidade de sistemas baseados em Aprendizado de Máquina, de forma que o escopo das necessidades de explicação possa ser determinado e alinhado aos objetivos dos stakeholders.
 
 Observação:
-Descreva algo que deve ser observado antes de iniciar essa tarefa que esteja fora do escopo deste framework
-> Exemplo: o problema de explicabilidade já foi reconhecido fora do OpenUP4Exp (escopo do projeto)
+Os resultados obtidos servem como base para a definição da Visão da Explicabilidade e para o posterior detalhamento dos requisitos de explicabilidade.
 
-[Disciplina: Requisitos](requisitos.md)
+[Disciplina: Requisitos](../disciplina/requisitos.md)
 
 **Objetivo**
 
-Qual o objetivo ao descrever essa tarefa?
+O propósito desta tarefa é identificar os requisitos de explicabilidade associados ao sistema baseado em Inteligência Artificial. Esses requisitos estabelecem uma compreensão compartilhada entre stakeholders e equipe de desenvolvimento sobre as necessidades de explicação e compreensão das decisões apoiadas pelo sistema. Os requisitos identificados constituem a base para a definição da Visão da Explicabilidade e para o alinhamento das expectativas dos stakeholders quanto ao que deve ser explicado, para quem as explicações serão fornecidas e em quais contextos elas serão utilizadas.
+
+O objetivo é obter uma compreensão inicial das necessidades de explicabilidade em um nível estratégico, permitindo delimitar o escopo da explicabilidade, identificar stakeholders relevantes, reconhecer restrições e expectativas associadas às explicações e estabelecer uma base para o posterior detalhamento dos requisitos de explicabilidade. Informações mais específicas sobre conteúdo, formato, mecanismos e níveis de explicação serão refinadas em atividades posteriores da Engenharia de Requisitos.
 
 ## Relacionamentos
 
