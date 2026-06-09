@@ -11,7 +11,9 @@ Os resultados obtidos servem como base para a definição da Visão da Explicabi
 
 **Objetivo**
 
-Qual o objetivo ao descrever essa tarefa?
+O propósito desta tarefa é identificar os requisitos de explicabilidade associados ao sistema baseado em Inteligência Artificial. Esses requisitos estabelecem uma compreensão compartilhada entre stakeholders e equipe de desenvolvimento sobre as necessidades de explicação e compreensão das decisões apoiadas pelo sistema. Os requisitos identificados constituem a base para a definição da Visão da Explicabilidade e para o alinhamento das expectativas dos stakeholders quanto ao que deve ser explicado, para quem as explicações serão fornecidas e em quais contextos elas serão utilizadas.
+
+O objetivo é obter uma compreensão inicial das necessidades de explicabilidade em um nível estratégico, permitindo delimitar o escopo da explicabilidade, identificar stakeholders relevantes, reconhecer restrições e expectativas associadas às explicações e estabelecer uma base para o posterior detalhamento dos requisitos de explicabilidade. Informações mais específicas sobre conteúdo, formato, mecanismos e níveis de explicação serão refinadas em atividades posteriores da Engenharia de Requisitos.
 
 ## Relacionamentos
 
