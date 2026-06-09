@@ -23,22 +23,19 @@ O objetivo é obter uma compreensão inicial das necessidades de explicabilidade
 
 **Entradas**  
 - **Obrigatório:**  
-  - Escopo do Projeto
-  - Necessidade da Explicabilidade Reconhecida
+  - [Glossário](../artefatos/glossario.md) 
+  - [Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
 - **Opcional:**  
-  - [Lista de Item de Trabalho](#) 
-  - [Visão Explicabilidade](../artefatos/TEMPLATE-definir.visao.md)
-- **Saídas Intermediárias:**  
-  - [Glossário](#)
-  - [Lista de Item de Trabalhos](#)
-  - [Visão Explicabilidade](../artefatos/TEMPLATE-definir.visao.md)
-- **Saída Principal**
-  - [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md)
+  - Nenhum
+- **Saídas:**  
+  - [Glossário](../artefatos/glossario.md)
+  - [Especificação de Explicabilidade](../artefatos/DRE.md)
 ---
 ## Passos
 
-***1. ***
+***1. Obter Informações ***
 **O que fazer**
+Utilize diferentes técnicas de elicitação para compreender as necessidades de explicabilidade dos stakeholders. Entrevistas, workshops, observação do trabalho, análise documental e protótipos podem ser utilizados para identificar expectativas, preocupações e necessidades relacionadas à compreensão das decisões apoiadas por sistemas baseados em Inteligência Artificial.
 
 **Quem**
 
