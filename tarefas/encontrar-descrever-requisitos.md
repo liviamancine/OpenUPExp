@@ -35,7 +35,7 @@ O objetivo é obter uma compreensão inicial das necessidades de explicabilidade
 
 ***1. Obter Informações ***
 **O que fazer**
-dentificar e coletar informações relevantes sobre o sistema baseado em Inteligência Artificial, seu contexto de uso, os stakeholders envolvidos, os processos decisórios apoiados e as necessidades iniciais de explicabilidade. A elicitação pode ser realizada por meio de entrevistas, workshops, observação de atividades, análise documental, protótipos ou outras técnicas adequadas ao contexto do projeto.
+Identificar e coletar informações relevantes sobre o sistema baseado em Inteligência Artificial, seu contexto de uso, os stakeholders envolvidos, os processos decisórios apoiados e as necessidades iniciais de explicabilidade. A elicitação pode ser realizada por meio de entrevistas, workshops, observação de atividades, análise documental, protótipos ou outras técnicas adequadas ao contexto do projeto.
 
 O objetivo é compreender:
 
@@ -59,18 +59,63 @@ Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialista
 - Evitar discutir soluções de explicabilidade neste momento; o foco deve permanecer na compreensão das necessidades.
 - Registrar dúvidas, conflitos e riscos identificados durante a elicitação.
 
-*Perguntas úteis*
+*Veja Guideline*
 
-***2. ***
+Técnicas para obtenção de requisitos de explicabilidade??? - para mais informações
+
+***2. Identifique e capture os termos do domínio***
+
 **O que fazer**
+Identificar, documentar e manter um vocabulário comum entre os stakeholders e a equipe de desenvolvimento. Os termos devem representar conceitos relevantes do domínio da aplicação, do sistema de Inteligência Artificial e das necessidades de explicabilidade. A atividade busca reduzir ambiguidades e promover um entendimento compartilhado dos conceitos utilizados durante a elicitação e especificação dos requisitos.
+
+Além dos termos do domínio do negócio, recomenda-se identificar conceitos relacionados à explicabilidade, transparência, rastreabilidade, interpretação, explicação, recomendação, confiança, viés e outros conceitos relevantes para o contexto do sistema.
 
 **Quem**
 
+Engenheiro de Requisitos
+Stakeholders
+Especialistas de Domínio
+Especialistas em IA/AM (quando aplicável)
+
 **Onde registrar**
+
+[Glossário](../artefatos/glossario.md)
+
 
 **Boas Práticas**
 
-*Perguntas úteis*
+- Definir termos utilizando linguagem clara e objetiva.
+- Registrar sinônimos, siglas e acrônimos relevantes.
+- Evitar definições excessivamente técnicas quando o termo for utilizado por stakeholders não especialistas.
+- Validar os significados junto aos especialistas do domínio.
+- Atualizar o glossário continuamente à medida que novos termos forem identificados.
+- Garantir consistência entre os termos utilizados nos artefatos do projeto.
+
+
+***3. Identificar os tipos de requisitos de explicabilidade relevantes ao sistema***
+
+**O que fazer**
+Identificar quais necessidades de explicabilidade são relevantes para o sistema e para seus stakeholders. O objetivo é compreender quais aspectos das decisões, recomendações ou previsões produzidas pelo sistema precisam ser explicados. Os requisitos identificados podem estar relacionados à compreensão, justificativa, transparência, rastreabilidade, auditoria, conformidade regulatória, confiança ou outros objetivos associados à explicabilidade.
+
+Esta atividade auxilia na definição do escopo inicial da explicabilidade e na identificação dos aspectos que deverão ser posteriormente detalhados.
+**Quem**
+
+Engenheiro de Requisitos, Especialistas de Domínio e Especialistas em IA (quando aplicável)
+
+**Onde registrar**
+
+[[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+[Glossário](../artefatos/glossario.md)
+
+
+**Boas Práticas**
+
+- Focar inicialmente nos objetivos da explicabilidade, e não nas técnicas de explicação.
+- Identificar diferentes necessidades para diferentes perfis de stakeholders.
+- Considerar requisitos regulatórios, éticos e organizacionais relacionados à transparência.
+- Avaliar quais decisões possuem maior impacto e demandam maior nível de explicação.
+- Registrar conflitos ou divergências entre expectativas dos stakeholders.
+
 
 ## Informações Adicionais
 
