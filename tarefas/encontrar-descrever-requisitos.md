@@ -19,7 +19,7 @@ O objetivo é obter uma compreensão inicial das necessidades de explicabilidade
 
 **Papéis**  
 - **Executor Principal:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos.md)  
-- **Executores Adicionais:** [Arquiteto de Software](../papeis/arquiteto-software.md), [Desenvolvedor](../papeis/desenvolvedor.md), [Stakeholders](../papeis/stakeholders.md), [Testador](../papeis/testador.md), [Especialista Regulação](../papeis/especialista-etica-regulacao.md)
+- **Executores Adicionais:** [Arquiteto de Software](../papeis/arquiteto-software.md), [Desenvolvedor](../papeis/desenvolvedor.md), [Stakeholders](../papeis/stakeholders.md), [Testador](../papeis/testador.md), [Especialista Regulação](../papeis/especialista-etica-regulacao.md), [Especialista em IA](../papeis/especialista-IA.md)
 
 **Entradas**  
 - **Obrigatório:**  
@@ -46,7 +46,7 @@ quais restrições regulatórias, organizacionais ou éticas devem ser considera
 
 **Quem**
 
-Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio, Especialistas em IA/AM (quando aplicável)
+Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialistas em IA (quando aplicável)
 
 **Onde registrar**
 
