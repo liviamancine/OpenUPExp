@@ -1,4 +1,4 @@
-# Tarefa: [Nome da Fase] (Passos)
+# Tarefa: Encontrar e Descrever Requisitos de Explicabilidade (Passos)
 
 **Descrição:** 
 
