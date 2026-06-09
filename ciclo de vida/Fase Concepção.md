@@ -1,5 +1,5 @@
 
-# Fase de Concepção (OpenUP4ER)
+# Fase de Concepção (OpenUP4Exp)
 
 Primeira fase do processo.
 A fase de Concepção tem como objetivo estabelecer a [Visão da Explicabilidade](../artefatos/visao-explicabilidade.md), alinhar expectativas dos stakeholders e identificar requisitos iniciais, riscos e critérios de sucesso relacionados à explicação produzida pelo sistema de Aprendizado de Máquina.
