@@ -1,12 +1,11 @@
 # Tarefa: [Nome da Fase] (Passos)
 
 **Descrição:** 
-Descreva o propósito principal deste padrão de capacidade.  
-> Exemplo: Estabelecer a visão e a viabilidade do requisito de explicabilidade, alinhando expectativas dos stakeholders e identificando aspectos iniciais como transparência e compreensibilidade.
+
+Esta tarefa descreve como identificar, elicitar e documentar os requisitos de explicabilidade de sistemas baseados em Aprendizado de Máquina, de forma que o escopo das necessidades de explicação possa ser determinado e alinhado aos objetivos dos stakeholders.
 
 Observação:
-Descreva algo que deve ser observado antes de iniciar essa tarefa que esteja fora do escopo deste framework
-> Exemplo: o problema de explicabilidade já foi reconhecido fora do OpenUP4Exp (escopo do projeto)
+Os resultados obtidos servem como base para a definição da Visão da Explicabilidade e para o posterior detalhamento dos requisitos de explicabilidade.
 
 [Disciplina: Requisitos](requisitos.md)
 
