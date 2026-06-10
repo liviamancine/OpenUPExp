@@ -167,43 +167,80 @@ Identificar restrições, dependências, pressupostos e requisitos complementare
 
 Esses requisitos podem estar relacionados a aspectos de desempenho, segurança, privacidade, rastreabilidade, auditoria, conformidade regulatória, documentação ou limitações técnicas do sistema de Inteligência Artificial.
 
-Quem
+**Quem**
+Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialistas em IA/AM (quando aplicável)
+
+**Onde registrar**
+[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+[Lista de Itens de Trabalho](VAMOS TER???)
+
+**Boas práticas**
+- Considerar requisitos legais e regulatórios aplicáveis ao domínio.
+- Avaliar impactos da explicabilidade sobre desempenho e experiência do usuário.
+- Registrar pressupostos que possam afetar a geração das explicações.
+- Identificar limitações técnicas dos modelos de IA/AM utilizados.
+- Considerar necessidades de auditoria e rastreabilidade desde o início do projeto.
+
+***7. Obter consenso***
+
+**O que fazer**
+
+Revisar os requisitos de explicabilidade identificados junto aos stakeholders e à equipe do projeto para assegurar entendimento comum, consistência e alinhamento com os objetivos do sistema. O objetivo é validar se as necessidades identificadas representam adequadamente as expectativas dos stakeholders e se o escopo inicial da explicabilidade está devidamente definido.
+
+**Quem**
+
+Engenheiro de Requisitos, Stakeholders, Equipe do Projeto
+
+**Onde registrar**
+[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+[Lista de Itens de Trabalho](VAMOS TER???)
+
+**Boas práticas**
+- Realizar revisões colaborativas.
+- Resolver ambiguidades e inconsistências identificadas.
+- Registrar decisões e justificativas relevantes.
+- Garantir alinhamento entre objetivos de negócio e necessidades de explicabilidade.
+- Validar os requisitos antes do detalhamento.
+
+***8. Atualizar a Lista de Itens de Trabalho (Se houver)***
+
+**O que fazer**
+
+Registrar os requisitos de explicabilidade identificados para que possam ser acompanhados, priorizados, refinados e detalhados ao longo do projeto.
+Esses registros servirão como base para o planejamento das próximas atividades da Engenharia de Requisitos.
+
+**Quem**
 Engenheiro de Requisitos
-Stakeholders
-Especialistas de Domínio
-Especialistas em IA/AM (quando aplicável)
-Onde registrar
-Visão da Explicabilidade
+
+**Onde registrar**
 Lista de Itens de Trabalho
-Boas práticas
-Considerar requisitos legais e regulatórios aplicáveis ao domínio.
-Avaliar impactos da explicabilidade sobre desempenho e experiência do usuário.
-Registrar pressupostos que possam afetar a geração das explicações.
-Identificar limitações técnicas dos modelos de IA/AM utilizados.
-Considerar necessidades de auditoria e rastreabilidade desde o início do projeto.
 
+**Boas práticas**
+- Registrar cada requisito de forma clara e rastreável.
+- Associar requisitos aos stakeholders correspondentes.
+- Manter histórico de alterações e refinamentos.
+- Priorizar requisitos de acordo com os objetivos do projeto.
+- Garantir alinhamento entre a Lista de Itens de Trabalho e os artefatos produzidos.
 
-
-
-
-
+## Principais considerações
+A colaboração com os Stakeholders nesta tarefa é crítica para o sucesso da implementação do requisito de explicabilidade. Veja o princípio [Colaborar para alinhar os interesses e compartilhar o entendimento???] para mais informações.
 
 
 
 ## Informações Adicionais
 
 **Listas de Verificação:**  
-- [Documento de Visão de Explicabilidade](../tarefas/documento-requisito.md) 
+- [Qualidade de Bons Requisitos de Explicabilidade](???)
+- [Requisitos Adicionais](???)
 
 **Conceitos:**  
 - [Requisitos](#)
 
   **Diretrizes:**  
-- [Revisão eficaz de Requisitos](#)
-- [Técnicas Para Obtenção de Requisitos de Explicabilidade](#)
+- [O que considerar](???)
 ---
 **Referências:**  
-- [Link para o OpenUP Original]
+- [Link para o OpenUP Original](file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/tasks/find_and_outline_requirements_90D272B9.html)
 
 🧩 **OpenUP4ER — Framework de Engenharia de Requisitos para Explicabilidade em Sistemas de IA**
 
