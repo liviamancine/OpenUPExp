@@ -40,7 +40,7 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
 
 **O que fazer**
 
-Formalizar e alinhar a necessidade de explicabilidade já reconhecida no projeto, identificando quais stakeholders precisam de explicações, por que precisam, e que tipo de explicação é necessária no contexto do sistema de Aprendizado de Máquina.
+Formalizar e alinhar a necessidade de explicabilidade já reconhecida no projeto, identificando quais stakeholders precisam de explicações, por que precisam, e que tipo de explicação é necessária no contexto do sistema de Inteligência Artificial.
 
 Nesta etapa, o objetivo não é descobrir o problema do projeto, mas:
 - consolidar o problema de explicabilidade associado ao uso do sistema
