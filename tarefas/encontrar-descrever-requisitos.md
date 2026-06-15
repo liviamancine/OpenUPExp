@@ -34,6 +34,7 @@ O objetivo é obter uma compreensão inicial das necessidades de explicabilidade
 ## Passos
 
 ***1. Obter Informações***
+
 **O que fazer**
 
 Identificar e coletar informações relevantes sobre o sistema baseado em Inteligência Artificial, seu contexto de uso, os stakeholders envolvidos, os processos decisórios apoiados e as necessidades iniciais de explicabilidade. A elicitação pode ser realizada por meio de entrevistas, workshops, observação de atividades, análise documental, protótipos ou outras técnicas adequadas ao contexto do projeto.
