@@ -1,10 +1,10 @@
-# Tarefa: Definir a Visão (Passos)
+# Tarefa: Refined Explainability Requirements (Passos)
 
 **Descrição:**  
 Definir a análise dos requisitos de explicabilidade
 
 Observação:
-- o problema de explicabilidade já foi reconhecido fora do OpenUP4RE (escopo do projeto)
+- o problema de explicabilidade já foi reconhecido fora do OpenUPExp (escopo do projeto)
 - o OpenUPExp começa quando há a necessidade explícita de explicabilidade
 - os requisitos de explicabilidade foram elicitados, não em sua totalidade, mas alg
 
@@ -41,24 +41,39 @@ A análise de explicabilidade tem como objetivo transformar as necessidades de e
 
 **O que fazer**
 
+Analisar cada requisito de explicabilidade identificado durante a elicitação para compreender seu contexto de uso e seus objetivos. O propósito desta atividade é obter informações suficientes para apoiar a seleção de mecanismos explicativos adequados e identificar possíveis riscos, conflitos ou limitações.
 
-Nesta etapa, o objetivo é xxxxxxxxxxxxxxxxxx:
+Para cada requisito, validar:
+
+- Quem necessita da explicação
+- Qual o perfil do stakeholder (especialista, usuário final, auditor, gestor, regulador, etc.)
+- Qual o objetivo da explicação
+- Em qual contexto a explicação será utilizada
+- Qual o impacto da decisão apoiada pelo sistema
+- Quais requisitos regulatórios, éticos ou organizacionais estão associados.
 
 **Quem**
 
-- Engenheiro de Requisitos (líder), com apoio do Gerente de Projeto e validação dos stakholders-chave.
+- Engenheiro de Requisitos (líder), ccom apoio dos Stakeholders, Especialistas de Domínio e Especialistas em IA.
 
 **Onde registrar**
 
 [DRE] - ver onde registrar
-
+Requisitos de Explicabilidade Refinados (RER) - artefato intermediário???Validar
 
 **Boas Práticas**
 
-- 
+- Considerar diferentes perfis de stakeholders
+- Registrar o contexto de uso da explicação
+- Avaliar o impacto da decisão apoiada pelo sistema
+- Identificar requisitos regulatórios associados.
 
   *Perguntas úteis*
-- 
+- Quem utilizará a explicação?
+- Qual decisão está sendo apoiada?
+- Qual o risco associado à decisão?
+- Qual o objetivo principal da explicação?
+- Existe obrigação regulatória para explicar a decisão?
 
 
 ***2. Classificar necessidades explicativas***
