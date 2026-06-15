@@ -1,0 +1,228 @@
+# Tarefa: Definir a Visão (Passos)
+
+**Descrição:**  
+Definir a análise dos requisitos de explicabilidade
+
+Observação:
+- o problema de explicabilidade já foi reconhecido fora do OpenUP4RE (escopo do projeto)
+- o OpenUPExp começa quando há a necessidade explícita de explicabilidade
+- os requisitos de explicabilidade foram elicitados, não em sua totalidade, mas alg
+
+[Disciplina: Requisitos](requisitos.md)
+
+**Objetivo**
+
+A análise de explicabilidade tem como objetivo transformar as necessidades de explicação em mecanismos explicativos adequados.
+
+## Relacionamentos
+
+**Papéis**  
+- **Executor Principal:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos.md)  
+- **Executores Adicionais:** [Arquiteto de Software](../papeis/arquiteto-software.md), [Gerente de Projetos](../papeis/gerente-projeto.md), 
+[Especialista Ética](../papeis/especialista-etica-regulacao) e [Stakeholders](../papeis/stakeholders)
+
+**Entradas**  
+- **Obrigatório:**  
+  - Escopo do Projeto
+  - Necessidade da Explicabilidade Reconhecida
+  - Elicitação dos requisitos de explicabilidade
+
+- **Opcional:**  
+  - [Lista de Item de Trabalho](#) 
+
+- **Saídas Intermediárias:**  
+  - [Glossário](#)
+  - [Lista de Item de Trabalhos](#)
+  - [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md)
+---
+
+## Passos
+***1. Caracterizar requisitos de explicabilidade***
+
+**O que fazer**
+
+
+Nesta etapa, o objetivo é xxxxxxxxxxxxxxxxxx:
+
+**Quem**
+
+- Engenheiro de Requisitos (líder), com apoio do Gerente de Projeto e validação dos stakholders-chave.
+
+**Onde registrar**
+
+[DRE] - ver onde registrar
+
+
+**Boas Práticas**
+
+- 
+
+  *Perguntas úteis*
+- 
+
+
+***2. Classificar necessidades explicativas***
+
+**O que fazer**
+
+Exemplo:
+
+- | Necessidade   | Exemplos                |
+| ------------- | ----------------------- |
+| Compreensão   | entender resultado      |
+| Justificativa | justificar decisão      |
+| Confiança     | aumentar aceitação      |
+| Auditoria     | verificar comportamento |
+| Contestação   | questionar decisão      |
+| Aprendizado   | ensinar funcionamento   |
+
+
+**Quem**
+
+- Engenheiro de Requisitos (facilitador), Stakeholders.
+
+**Onde registrar**
+
+- [DRE] - ver onde registrar
+
+**Boas Práticas**
+
+-  
+---
+***3. Mapear para tipos de explicação***
+
+**O que fazer**
+
+| Necessidade                     | Tipo de Explicação         |
+| ------------------------------- | -------------------------- |
+| Justificativa clínica           | Feature Importance         |
+| Explicar caso específico        | Local Explanation          |
+| Explicar comportamento geral    | Global Explanation         |
+| Demonstrar exemplos semelhantes | Example-based Explanation  |
+| Mostrar regras                  | Rule-based Explanation     |
+| Mostrar impacto dos atributos   | Counterfactual Explanation |
+
+**Quem**
+
+Engenheiro de Requisitos
+
+**Onde registrar**
+
+[DRE] - ver onde registrar
+
+**Boas práticas**
+
+
+
+
+---
+***4. Analisar conflitos e divergências***
+
+**O que fazer**
+
+- Fazer revisão formal da Visão da Explicabilidade com stakeholders e time técnico; coletar aprovações, feedbacks e registrar decisões.
+- Ajustar [Documento de Visão de Explicabilidade](../tarefas/documento-requisito.md), conforme consenso.
+
+**Quem**
+
+Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquiteto.
+
+**Onde registrar**
+
+- [Documento de Visão de Explicabilidade](../tarefas/definir-visao.md) (versão aprovada)
+
+**Boas Práticas**
+
+- [](#)
+
+
+***5. Analisar dependências e restrições***
+
+**O que fazer**
+
+- 
+
+**Quem**
+
+Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquiteto.
+
+**Onde registrar**
+
+- [Documento de Visão de Explicabilidade](../tarefas/definir-visao.md) 
+
+**Boas Práticas**
+
+- [VAMOS TER UM DOCUMENTO INDICANDO BOAS PRÁTICAS?](#)
+
+***6. Avaliar viabilidade dos requisitos***
+
+**O que fazer**
+
+- 
+
+**Quem**
+
+Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquiteto.
+
+**Onde registrar**
+
+- [Documento de Visão de Explicabilidade](../tarefas/definir-visao.md) 
+
+**Boas Práticas**
+
+- [VAMOS TER UM DOCUMENTO INDICANDO BOAS PRÁTICAS?](#)
+
+***7. Priorizar requisitos usando MoScoW***
+
+**O que fazer**
+
+- 
+
+**Quem**
+
+Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquiteto.
+
+**Onde registrar**
+
+- [Documento de Visão de Explicabilidade](../tarefas/definir-visao.md) 
+
+**Boas Práticas**
+
+- [VAMOS TER UM DOCUMENTO INDICANDO BOAS PRÁTICAS?](#)
+
+***8. Obter consenso***
+
+**O que fazer**
+
+- 
+
+**Quem**
+
+Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquiteto.
+
+**Onde registrar**
+
+- [Documento de Visão de Explicabilidade](../tarefas/definir-visao.md) 
+
+**Boas Práticas**
+
+- [VAMOS TER UM DOCUMENTO INDICANDO BOAS PRÁTICAS?](#)
+
+---
+
+## Informações Adicionais
+
+**Listas de Verificação:**  
+- [Documento de Visão de Explicabilidade](../tarefas/documento-requisito.md) 
+
+**Conceitos:**  
+- [Requisitos](#)
+
+  **Diretrizes:**  
+- [Revisão eficaz de Requisitos](#)
+- [Técnicas Para Obtenção de Requisitos de Explicabilidade](#)
+---
+**Referências:**  
+- [Link para o OpenUP Original](file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/tasks/define_vision_9D36CF2F.html)
+
+
