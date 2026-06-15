@@ -80,6 +80,8 @@ Requisitos de Explicabilidade Refinados (RER) - artefato intermediário???Valida
 
 **O que fazer**
 
+Classificar os requisitos de acordo com a necessidade explicativa predominante. Essa classificação auxilia na escolha dos mecanismos explicativos mais adequados e facilita a análise posterior.
+
 Exemplo:
 
 - | Necessidade   | Exemplos                |
@@ -94,19 +96,26 @@ Exemplo:
 
 **Quem**
 
-- Engenheiro de Requisitos (facilitador), Stakeholders.
+- Engenheiro de Requisitos (facilitador) e Stakeholders.
 
 **Onde registrar**
 
 - [DRE] - ver onde registrar
+- Requisitos de Explicabilidade Refinados (RER) - artefato intermediário???Validar
+
 
 **Boas Práticas**
 
--  
----
-***3. Mapear para tipos de explicação***
+-  Permitir múltiplas classificações para um mesmo requisito quando necessário.
+-  Validar a classificação junto aos stakeholders.
+-  Evitar assumir que todos os usuários possuem os mesmos objetivos.
+
+ ***3. Mapear para tipos de explicação***
 
 **O que fazer**
+Associar cada requisito de explicabilidade a um ou mais tipos de explicação que melhor atendam ao perfil do stakeholder, ao contexto da decisão e ao objetivo da explicação.
+O objetivo não é selecionar uma ferramenta específica, mas identificar quais abordagens explicativas possuem maior aderência às necessidades identificadas.
+
 
 | Necessidade                     | Tipo de Explicação         |
 | ------------------------------- | -------------------------- |
