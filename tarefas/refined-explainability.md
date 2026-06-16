@@ -37,7 +37,7 @@ A análise de explicabilidade tem como objetivo transformar as necessidades de e
 ---
 
 ## Passos
-***1. Caracterizar requisitos de explicabilidade***
+***1. Consolidar e Caracterizar requisitos de explicabilidade***
 
 **O que fazer**
 
@@ -128,36 +128,47 @@ O objetivo não é selecionar uma ferramenta específica, mas identificar quais 
 
 **Quem**
 
-Engenheiro de Requisitos
+Engenheiro de Requisitos, Arquiteto de Software e Especialista em IA
 
 **Onde registrar**
 
-[DRE] - ver onde registrar
+- [DRE] - ver onde registrar
+- Requisitos de Explicabilidade Refinados (RER) - artefato intermediário???Validar
 
 **Boas práticas**
-
-
+- Priorizar mecanismos compatíveis com o perfil do usuário.
+- Considerar limitações dos modelos de IA utilizados.
+- Registrar justificativas para o mapeamento realizado.
 
 
 ---
 ***4. Analisar conflitos e divergências***
 
 **O que fazer**
+Identificar conflitos entre requisitos, stakeholders e objetivos de explicabilidade.
 
-- Fazer revisão formal da Visão da Explicabilidade com stakeholders e time técnico; coletar aprovações, feedbacks e registrar decisões.
-- Ajustar [Documento de Visão de Explicabilidade](../tarefas/documento-requisito.md), conforme consenso.
+Exemplos:
+
+- Usuários desejam explicações simples enquanto auditores exigem alto detalhamento.
+- Requisitos de transparência entram em conflito com requisitos de privacidade.
+- Explicações mais detalhadas impactam requisitos de desempenho.
+
+Documentar os conflitos identificados e propor alternativas de resolução.
 
 **Quem**
 
-Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquiteto.
+Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialistas em IA
 
 **Onde registrar**
 
-- [Documento de Visão de Explicabilidade](../tarefas/definir-visao.md) (versão aprovada)
+- [DRE] - ver onde registrar
+- Requisitos de Explicabilidade Refinados (RER) - artefato intermediário???Validar
 
 **Boas Práticas**
 
-- [](#)
+- Registrar explicitamente os conflitos identificados.
+- Envolver stakeholders afetados na resolução.
+- Documentar justificativas para as decisões tomadas.
 
 
 ***5. Analisar dependências e restrições***
