@@ -88,7 +88,7 @@ Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialista
 - Atualizar o glossário continuamente à medida que novos termos forem identificados.
 - Garantir consistência entre os termos utilizados nos artefatos do projeto.
 
-***3. Identificar os tipos de requisitos de explicabilidade relevantes ao sistema***
+***3. Refinar necessidades de explicabilidade dos stakeholders***
 
 **O que fazer**
 
