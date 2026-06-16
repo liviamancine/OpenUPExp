@@ -45,12 +45,9 @@ Analisar cada requisito de explicabilidade identificado durante a elicitação p
 
 Para cada requisito, validar:
 
-- Quem necessita da explicação
-- Qual o perfil do stakeholder (especialista, usuário final, auditor, gestor, regulador, etc.)
-- Qual o objetivo da explicação
 - Em qual contexto a explicação será utilizada
 - Qual o impacto da decisão apoiada pelo sistema
-- Quais requisitos regulatórios, éticos ou organizacionais estão associados.
+- Quais requisitos regulatórios, éticos ou organizacionais estão associados
 
 **Quem**
 
@@ -175,6 +172,11 @@ Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialista
 
 **O que fazer**
 
+Avalia impacto dessas restrições nos requisitos.
+
+Exemplo:
+
+Requisito RE-01 - Depende de rastreabilidade - Impactado pela LGPD
 - 
 
 **Quem**
