@@ -4,9 +4,12 @@
 Definir a análise dos requisitos de explicabilidade
 
 Observação:
-- o problema de explicabilidade já foi reconhecido fora do OpenUPExp (escopo do projeto)
-- o OpenUPExp começa quando há a necessidade explícita de explicabilidade
-- os requisitos de explicabilidade foram elicitados, não em sua totalidade, mas alg
+
+- O problema de explicabilidade já foi reconhecido durante a fase de Concepção.
+- A Visão da Explicabilidade foi definida e fornece o contexto estratégico para a análise.
+- Os requisitos de explicabilidade foram elicitados e representam as necessidades iniciais dos stakeholders, embora ainda possam ser refinados ao longo do projeto.
+- Nesta tarefa, os requisitos são analisados quanto à sua consistência, viabilidade, dependências, conflitos e prioridades, sendo posteriormente refinados e associados aos mecanismos explicativos mais adequados.
+- O resultado desta atividade constitui a base para a especificação detalhada dos requisitos de explicabilidade na tarefa **Especificar os Requisitos de Explicabilidade**.
 
 [Disciplina: Requisitos](requisitos.md)
 
