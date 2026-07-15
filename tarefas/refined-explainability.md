@@ -81,7 +81,7 @@ Classificar os requisitos de acordo com a necessidade explicativa predominante. 
 
 Exemplo:
 
-- | Necessidade   | Exemplos                |
+| Necessidade   | Exemplos                |
 | ------------- | ----------------------- |
 | Compreensão   | entender resultado      |
 | Justificativa | justificar decisão      |
