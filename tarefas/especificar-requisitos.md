@@ -34,26 +34,51 @@ Especificar os requisitos de explicabilidade previamente analisados, transforman
 ---
 ## Passos
 
-3. Selecionar requisitos para especificação
+***1. Selecionar requisitos para especificação***
 
-O que fazer
+**O que fazer**
+Selecionar os requisitos de explicabilidade refinados que serão especificados na iteração corrente. A seleção deve considerar a prioridade definida durante a análise, as dependências existentes entre requisitos, os riscos associados e os objetivos do projeto.
 
-Identificar quais necessidades de explicabilidade são relevantes para o sistema e para seus stakeholders. O objetivo é compreender quais aspectos das decisões, recomendações ou previsões produzidas pelo sistema precisam ser explicados. Os requisitos identificados podem estar relacionados à compreensão, justificativa, transparência, rastreabilidade, auditoria, conformidade regulatória, confiança ou outros objetivos associados à explicabilidade. Esta atividade auxilia na definição do escopo inicial da explicabilidade e na identificação dos aspectos que deverão ser posteriormente detalhados.
+O objetivo desta atividade é definir quais requisitos serão detalhados no Documento de Requisitos de Explicabilidade (DRE), garantindo que os requisitos mais relevantes para os stakeholders e para o sistema sejam especificados primeiro.
 
-Quem
+**Quem**
 
-Engenheiro de Requisitos, Especialistas de Domínio e Especialistas em IA (quando aplicável)
+Engenheiro de Requisitos, Gerente de Projetos e Stakeholders
 
-Onde registrar
+**Onde registrar**
 
-[Visão da Explicabilidade
+[DRE](../artefatos/DRE.md)
 
-Glossário
+**Boas Práticas**
 
-Boas Práticas
+- Priorizar requisitos classificados como Must Have.
+- Considerar dependências entre requisitos antes da seleção.
+- Garantir alinhamento entre os requisitos selecionados e o planejamento da iteração.
+- Registrar justificativas para requisitos adiados.
+- Revisar a seleção sempre que houver mudanças significativas nos requisitos ou nas prioridades do projeto.
 
-Focar inicialmente nos objetivos da explicabilidade, e não nas técnicas de explicação.
-Identificar diferentes necessidades para diferentes perfis de stakeholders.
-Considerar requisitos regulatórios, éticos e organizacionais relacionados à transparência.
-Avaliar quais decisões possuem maior impacto e demandam maior nível de explicação.
-Registrar conflitos ou divergências entre expectativas dos stakeholders.
+---
+## Passos
+
+***1. Selecionar requisitos para especificação***
+
+**O que fazer**
+Selecionar os requisitos de explicabilidade refinados que serão especificados na iteração corrente. A seleção deve considerar a prioridade definida durante a análise, as dependências existentes entre requisitos, os riscos associados e os objetivos do projeto.
+
+O objetivo desta atividade é definir quais requisitos serão detalhados no Documento de Requisitos de Explicabilidade (DRE), garantindo que os requisitos mais relevantes para os stakeholders e para o sistema sejam especificados primeiro.
+
+**Quem**
+
+Engenheiro de Requisitos, Gerente de Projetos e Stakeholders
+
+**Onde registrar**
+
+[DRE](../artefatos/DRE.md)
+
+**Boas Práticas**
+
+- Priorizar requisitos classificados como Must Have.
+- Considerar dependências entre requisitos antes da seleção.
+- Garantir alinhamento entre os requisitos selecionados e o planejamento da iteração.
+- Registrar justificativas para requisitos adiados.
+- Revisar a seleção sempre que houver mudanças significativas nos requisitos ou nas prioridades do projeto.
