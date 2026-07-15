@@ -33,3 +33,27 @@ Especificar os requisitos de explicabilidade previamente analisados, transforman
     - [Especificação da Explicabilidade](../artefatos/DRE.md)
 ---
 ## Passos
+
+3. Selecionar requisitos para especificação
+
+O que fazer
+
+Identificar quais necessidades de explicabilidade são relevantes para o sistema e para seus stakeholders. O objetivo é compreender quais aspectos das decisões, recomendações ou previsões produzidas pelo sistema precisam ser explicados. Os requisitos identificados podem estar relacionados à compreensão, justificativa, transparência, rastreabilidade, auditoria, conformidade regulatória, confiança ou outros objetivos associados à explicabilidade. Esta atividade auxilia na definição do escopo inicial da explicabilidade e na identificação dos aspectos que deverão ser posteriormente detalhados.
+
+Quem
+
+Engenheiro de Requisitos, Especialistas de Domínio e Especialistas em IA (quando aplicável)
+
+Onde registrar
+
+[Visão da Explicabilidade
+
+Glossário
+
+Boas Práticas
+
+Focar inicialmente nos objetivos da explicabilidade, e não nas técnicas de explicação.
+Identificar diferentes necessidades para diferentes perfis de stakeholders.
+Considerar requisitos regulatórios, éticos e organizacionais relacionados à transparência.
+Avaliar quais decisões possuem maior impacto e demandam maior nível de explicação.
+Registrar conflitos ou divergências entre expectativas dos stakeholders.
