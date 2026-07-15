@@ -181,8 +181,6 @@ Exemplo:
 
 Requisito RE-01 - Depende de rastreabilidade - Impactado pela LGPD
 
-- 
-
 **Quem**
 
 Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquiteto.
@@ -198,18 +196,33 @@ Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquit
 ***6. Avaliar viabilidade dos requisitos***
 
 **O que fazer**
+Avaliar se cada requisito de explicabilidade pode ser atendido considerando as características do sistema de Inteligência Artificial, as restrições do projeto e o contexto de utilização. A avaliação deve verificar se o requisito é tecnicamente implementável, operacionalmente aplicável e compatível com aspectos regulatórios, organizacionais e de negócio. Deve-se considerar os riscos, limitações e premissas para apoiar a priorização e a especificação dos requisitos nas etapas seguintes.
+Sugestão: matriz de avaliação de viabilidade:
 
-- 
+| Critério                        | Observação                                    | Situação|
+| ------------------------------- | ----------------------------------------------|---------|
+| Viabilidade técnica             | O modelo suporta explicações locasis          |Sim/Não  |
+| Viabilidade regulatória         | Atende às exigências da LGPD                  |Sim/Não  |
+| Viabilidade operacional         | Compatível com o fluxo de trabalho do usuário |Sim/Não  |
+| Viabilidade econômica           | Custo aceitável para o projeto                |Sim/Não  |
+
+
 
 **Quem**
 
-Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquiteto.
+Engenheiro de Requisitos (facilitador), Arquiteto de Software, Especialista em IA, Especialista de domínio,  Gerente de Projeto e Stakeholders (quando necessário).
 
 **Onde registrar**
 
 - [Documento de Visão de Explicabilidade](../tarefas/definir-visao.md) 
 
 **Boas Práticas**
+
+- Avaliar a viabilidade antes da especificação detalhada dos requisitos.
+- Considerar simultaneamente aspectos técnicos, regulatórios e organizacionais.
+- Registrar premissas e restrições que possam impactar a implementação.
+- Identificar riscos que possam comprometer a qualidade ou a efetividade das explicações.
+- Revisar a viabilidade sempre que houver mudanças significativas nos requisitos, na arquitetura ou no modelo de IA.
 
 - [VAMOS TER UM DOCUMENTO INDICANDO BOAS PRÁTICAS?](#)
 
@@ -217,11 +230,18 @@ Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquit
 
 **O que fazer**
 
-- 
+Priorizar os requisitos de explicabilidade analisados utilizando a técnica MoSCoW, classificando-os de acordo com sua importância para o atendimento das necessidades dos stakeholders, dos objetivos do sistema e das restrições do projeto.
+
+Cada requisito deve ser classificado em uma das seguintes categorias:
+
+Must Have: requisito essencial para que o sistema atenda aos objetivos mínimos de explicabilidade.
+Should Have: requisito importante, mas cuja ausência não inviabiliza o sistema.
+Could Have: requisito desejável, cuja implementação agrega valor, mas pode ser adiada.
+Won't Have (for now): requisito reconhecido, porém fora do escopo da iteração ou da versão atual.
 
 **Quem**
 
-Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquiteto.
+Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquiteto de Software
 
 **Onde registrar**
 
@@ -229,17 +249,21 @@ Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquit
 
 **Boas Práticas**
 
+- Priorizar requisitos após a análise de conflitos, dependências e viabilidade.
+- Justificar a classificação atribuída a cada requisito.
+- Revisar a priorização sempre que novos requisitos forem identificados ou houver mudanças significativas no projeto.
+- Buscar equilíbrio entre necessidades dos stakeholders, riscos e capacidade de implementação.
 - [VAMOS TER UM DOCUMENTO INDICANDO BOAS PRÁTICAS?](#)
 
 ***8. Obter consenso***
 
 **O que fazer**
 
-- 
+Conduzir uma revisão colaborativa dos requisitos de explicabilidade refinados com os stakeholders e a equipe do projeto, buscando validar os resultados da análise realizada e estabelecer um entendimento comum sobre os requisitos que seguirão para a etapa de especificação.
 
 **Quem**
 
-Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquiteto.
+Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquiteto de Software, Especialista em IA, Especialista de domínio (quando aplicável).
 
 **Onde registrar**
 
@@ -247,6 +271,10 @@ Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquit
 
 **Boas Práticas**
 
+- Promover revisões colaborativas envolvendo representantes dos principais stakeholders.
+- Registrar justificativas para decisões, conflitos resolvidos e requisitos adiados.
+- Garantir que todos os requisitos priorizados possuam consenso suficiente antes da especificação.
+- Verificar a rastreabilidade entre os requisitos elicitados, os requisitos refinados e a Visão da Explicabilidade.
 - [VAMOS TER UM DOCUMENTO INDICANDO BOAS PRÁTICAS?](#)
 
 ---
