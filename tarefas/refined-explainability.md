@@ -177,6 +177,7 @@ Avalia impacto dessas restrições nos requisitos.
 Exemplo:
 
 Requisito RE-01 - Depende de rastreabilidade - Impactado pela LGPD
+
 - 
 
 **Quem**
