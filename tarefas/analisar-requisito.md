@@ -198,6 +198,7 @@ Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquit
 ***6. Avaliar viabilidade dos requisitos***
 
 **O que fazer**
+
 Avaliar se cada requisito de explicabilidade pode ser atendido considerando as características do sistema de Inteligência Artificial, as restrições do projeto e o contexto de utilização. A avaliação deve verificar se o requisito é tecnicamente implementável, operacionalmente aplicável e compatível com aspectos regulatórios, organizacionais e de negócio. Deve-se considerar os riscos, limitações e premissas para apoiar a priorização e a especificação dos requisitos nas etapas seguintes.
 Sugestão: matriz de avaliação de viabilidade:
 
