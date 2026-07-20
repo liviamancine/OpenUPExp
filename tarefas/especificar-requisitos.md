@@ -37,6 +37,7 @@ Especificar os requisitos de explicabilidade previamente analisados, transforman
 ***1. Especificar requisitos utilizando Histórias de Usuário***
 
 **O que fazer**
+Util
 Especificar cada requisito de explicabilidade utilizando HU, descrevendo de forma clara quem necessita da explicação, qual necessidade deve ser atendida e qual benefício é esperado.
 
 As HU devem representar o comportamento esperado do sistema sob a perspectiva do stakeholder, permitindo que a equipe compreenda o valor da explicação e sua contribuição para o processo decisório.
@@ -73,6 +74,7 @@ Engenheiro de Requisitos, Stakeholders, Especialista de domínio e Especialista 
 ***2. Definir critérios de aceitação***
 
 **O que fazer**
+
 Definir critérios de aceitação para cada História de Usuário de Explicabilidade, estabelecendo condições objetivas que permitam verificar se o requisito foi implementado corretamente e atende às necessidades dos stakeholders.
 
 Os critérios de aceitação devem descrever o comportamento esperado do sistema, bem como as condições sob as quais a explicação deverá ser apresentada. 
@@ -100,6 +102,7 @@ Engenheiro de Requisitos, Stakeholders, Especialista de domínio e equipe de des
 ***3. Especificar características da explicação***
 
 **O que fazer**
+
 Especificar as características esperadas para cada explicação associada às HU, descrevendo os elementos necessários para que a equipe de desenvolvimento compreenda o comportamento esperado da explicação. O objetivo é complementar as HU sem definir mecanismos específicos de implementação.
 
 As características podem incluir, entre outras:
@@ -133,6 +136,7 @@ Engenheiro de Requisitos, Especialista de domínio, Especialista em IA e Stakeho
 ***4. Estabelecer rastreabilidade***
 
 **O que fazer**
+
 Estabelecer a rastreabilidade entre os requisitos especificados e os artefatos produzidos nas etapas anteriores da Engenharia de Requisitos.
 
 Cada requisito especificado deve estar relacionado, sempre que aplicável, aos seguintes elementos:
@@ -166,6 +170,7 @@ Engenheiro de Requisitos.
 ***5. Consolidar o Documento de Requisitos de Explicabilidade (DRE)***
 
 **O que fazer**
+
 Organizar e consolidar todas as Histórias de Usuário, critérios de aceitação, características das explicações e informações complementares em um único Documento de Requisitos de Explicabilidade (DRE).
 
 Antes da consolidação, verificar a consistência, completude e rastreabilidade dos requisitos especificados, assegurando que todas as informações necessárias para apoiar o desenvolvimento e a validação estejam devidamente registradas.
