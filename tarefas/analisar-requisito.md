@@ -113,6 +113,7 @@ Exemplo:
  ***3. Mapear para tipos de explicação***
 
 **O que fazer**
+
 Associar cada requisito de explicabilidade a um ou mais tipos de explicação que melhor atendam ao perfil do stakeholder, ao contexto da decisão e ao objetivo da explicação.
 O objetivo não é selecionar uma ferramenta específica, mas identificar quais abordagens explicativas possuem maior aderência às necessidades identificadas.
 
@@ -145,6 +146,7 @@ Engenheiro de Requisitos, Arquiteto de Software e Especialista em IA
 ***4. Analisar conflitos e divergências***
 
 **O que fazer**
+
 Identificar conflitos entre requisitos, stakeholders e objetivos de explicabilidade.
 
 Exemplos:
