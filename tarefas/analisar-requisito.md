@@ -8,7 +8,7 @@ Observação:
 - O problema de explicabilidade já foi reconhecido durante a fase de Concepção.
 - A Visão da Explicabilidade foi definida e fornece o contexto estratégico para a análise.
 - Os requisitos de explicabilidade foram elicitados e representam as necessidades iniciais dos stakeholders, embora ainda possam ser refinados ao longo do projeto.
-- Nesta tarefa, os requisitos são analisados quanto à sua consistência, viabilidade, dependências, conflitos e prioridades, sendo posteriormente refinados e associados aos mecanismos explicativos mais adequados.
+- Nesta tarefa, os requisitos são analisados quanto à sua consistência, viabilidade, dependências, conflitos e prioridades, sendo posteriormente refinados e associados aos aspectos explicativos mais adequados.
 - O resultado desta atividade constitui a base para a especificação detalhada dos requisitos de explicabilidade na tarefa **Especificar os Requisitos de Explicabilidade**.
 
 [Disciplina: Requisitos](requisitos.md)
@@ -44,7 +44,7 @@ A análise de explicabilidade tem como objetivo transformar as necessidades de e
 
 **O que fazer**
 
-Analisar cada requisito de explicabilidade identificado durante a elicitação para compreender seu contexto de uso e seus objetivos. O propósito desta atividade é obter informações suficientes para apoiar a seleção de mecanismos explicativos adequados e identificar possíveis riscos, conflitos ou limitações.
+Analisar cada requisito de explicabilidade identificado durante a elicitação para compreender seu contexto de uso e seus objetivos. O propósito desta atividade é obter informações suficientes para apoiar a seleção de aspectos explicativos adequados e identificar possíveis riscos, conflitos ou limitações.
 
 Para cada requisito, validar:
 
@@ -80,7 +80,7 @@ Requisitos de Explicabilidade Refinados (RER) - artefato intermediário???Valida
 
 **O que fazer**
 
-Classificar os requisitos de acordo com a necessidade explicativa predominante. Essa classificação auxilia na escolha dos mecanismos explicativos mais adequados e facilita a análise posterior.
+Classificar os requisitos de acordo com a necessidade explicativa predominante. Essa classificação auxilia na escolha dos aspectos explicativos mais adequados e facilita a análise posterior.
 
 Exemplo:
 
