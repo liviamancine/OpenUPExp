@@ -1,11 +1,11 @@
 # Tarefa: Definir a Visão (Passos)
 
 **Descrição:**  
-Definir a visão da explicabilidade, em alto nível, e os problemas relacionados à compreensão das decisões do sistema de AM, os stakeholders afetados, os objetivos da explicabilidade e os limites iniciais que guiarão as iterações futuras.
+Definir a visão da explicabilidade, em alto nível, e os problemas relacionados à compreensão das decisões do sistema de Inteligência Artificial, os stakeholders afetados, os objetivos da explicabilidade e os limites iniciais que guiarão as iterações futuras.
 
 Observação:
 - o problema de explicabilidade já foi reconhecido fora do OpenUP4RE (escopo do projeto)
-- o OpenUP4RE começa quando há a necessidade explícita de explicabilidade
+- o OpenUPExp começa quando há a necessidade explícita de explicabilidade
 - o foco inicial é alinhamento entre stakeholders, necessidades explicativas e contexto.
 
 [Disciplina: Requisitos](requisitos.md)
@@ -40,7 +40,7 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
 
 **O que fazer**
 
-Formalizar e alinhar a necessidade de explicabilidade já reconhecida no projeto, identificando quais stakeholders precisam de explicações, por que precisam, e que tipo de explicação é necessária no contexto do sistema de Aprendizado de Máquina.
+Formalizar e alinhar a necessidade de explicabilidade já reconhecida no projeto, identificando quais stakeholders precisam de explicações, por que precisam, e que tipo de explicação é necessária no contexto do sistema de Inteligência Artificial.
 
 Nesta etapa, o objetivo não é descobrir o problema do projeto, mas:
 - consolidar o problema de explicabilidade associado ao uso do sistema

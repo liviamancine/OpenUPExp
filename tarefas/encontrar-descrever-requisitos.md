@@ -2,7 +2,7 @@
 
 **Descrição:** 
 
-Esta tarefa descreve como identificar, elicitar e documentar os requisitos de explicabilidade de sistemas baseados em Aprendizado de Máquina, de forma que o escopo das necessidades de explicação possa ser determinado e alinhado aos objetivos dos stakeholders.
+Esta tarefa descreve como identificar os requisitos de explicabilidade de sistemas baseados em Inteligência Artificial, de forma que o escopo das necessidades de explicação possa ser determinado e alinhado aos objetivos dos stakeholders.
 
 Observação:
 Os resultados obtidos servem como base para a definição da Visão da Explicabilidade e para o posterior detalhamento dos requisitos de explicabilidade.
@@ -19,61 +19,207 @@ O objetivo é obter uma compreensão inicial das necessidades de explicabilidade
 
 **Papéis**  
 - **Executor Principal:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos.md)  
-- **Executores Adicionais:** [Arquiteto de Software](../papeis/arquiteto-software.md), [Gerente de Projetos](../papeis/gerente-projeto.md), 
-[Especialista Ética](../papeis/especialista-etica-regulacao) e [Stakeholders](../papeis/stakeholders)
+- **Executores Adicionais:** [Arquiteto de Software](../papeis/arquiteto-software.md), [Desenvolvedor](../papeis/desenvolvedor.md), [Especialista de Domínio](../papeis/especialista-dominio.md), [Stakeholders](../papeis/stakeholders.md)[Testador](../papeis/testador.md), [Especialista Regulação](../papeis/especialista-etica-regulacao.md), [Especialista em IA](../papeis/especialista-IA.md)
 
 **Entradas**  
 - **Obrigatório:**  
-  - Escopo do Projeto
-  - Necessidade da Explicabilidade Reconhecida
+  - [Glossário](../artefatos/glossario.md) 
+  - [Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
 - **Opcional:**  
-  - [Lista de Item de Trabalho](#) 
-  - [Visão Explicabilidade](../artefatos/TEMPLATE-definir.visao.md)
-- **Saídas Intermediárias:**  
-  - [Glossário](#)
-  - [Lista de Item de Trabalhos](#)
-  - [Visão Explicabilidade](../artefatos/TEMPLATE-definir.visao.md)
-- **Saída Principal**
-  - [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md)
+  - Nenhum
+- **Saídas:**  
+  - [Glossário](../artefatos/glossario.md)
+  - [Especificação da Explicabilidade](../artefatos/DRE.md)
 ---
 ## Passos
 
-***1. ***
+***1. Obter Informações***
+
 **O que fazer**
+
+Identificar e coletar informações relevantes sobre o sistema baseado em Inteligência Artificial, seu contexto de uso, os stakeholders envolvidos, os processos decisórios apoiados e as necessidades iniciais de explicabilidade. A elicitação pode ser realizada por meio de entrevistas, workshops, observação de atividades, análise documental, protótipos ou outras técnicas adequadas ao contexto do projeto.
+
+O objetivo é compreender:
+- quais decisões são apoiadas pelo sistema;
+- quais stakeholders são impactados;
+- quais preocupações existem em relação à transparência e compreensão das decisões;
+- quais restrições regulatórias, organizacionais ou éticas devem ser consideradas.
 
 **Quem**
 
+Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialistas em IA (quando aplicável)
+
 **Onde registrar**
+[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+
+[Glossário](../artefatos/glossario.md)
 
 **Boas Práticas**
+- Identificar stakeholders com diferentes perspectivas e responsabilidades.
+- Investigar situações em que explicações serão necessárias para apoiar decisões.
+- Considerar requisitos legais, regulatórios e organizacionais relacionados ao uso de IA.
+- Evitar discutir soluções de explicabilidade neste momento; o foco deve permanecer na compreensão das necessidades.
+- Registrar dúvidas, conflitos e riscos identificados durante a elicitação.
 
-*Perguntas úteis*
+*Veja Guideline*
 
-***2. ***
+Técnicas para obtenção de requisitos de explicabilidade??? - para mais informações
+
+***2. Identifique e capture os termos do domínio***
+
 **O que fazer**
+Identificar, documentar e manter um vocabulário comum entre os stakeholders e a equipe de desenvolvimento. Os termos devem representar conceitos relevantes do domínio da aplicação, do sistema de Inteligência Artificial e das necessidades de explicabilidade. A atividade busca reduzir ambiguidades e promover um entendimento compartilhado dos conceitos utilizados durante a elicitação e especificação dos requisitos.
+
+Além dos termos do domínio do negócio, recomenda-se identificar conceitos relacionados à explicabilidade, transparência, rastreabilidade, interpretação, explicação, recomendação, confiança, viés e outros conceitos relevantes para o contexto do sistema.
 
 **Quem**
 
+Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialistas em IA/AM (quando aplicável)
+
 **Onde registrar**
 
-**Boas Práticas**
+[Glossário](../artefatos/glossario.md)
 
-*Perguntas úteis*
+**Boas Práticas**
+- Definir termos utilizando linguagem clara e objetiva.
+- Registrar sinônimos, siglas e acrônimos relevantes.
+- Evitar definições excessivamente técnicas quando o termo for utilizado por stakeholders não especialistas.
+- Validar os significados junto aos especialistas do domínio.
+- Atualizar o glossário continuamente à medida que novos termos forem identificados.
+- Garantir consistência entre os termos utilizados nos artefatos do projeto.
+
+***3. Refinar necessidades de explicabilidade dos stakeholders***
+
+**O que fazer**
+
+Identificar quais necessidades de explicabilidade são relevantes para o sistema e para seus stakeholders. O objetivo é compreender quais aspectos das decisões, recomendações ou previsões produzidas pelo sistema precisam ser explicados. Os requisitos identificados podem estar relacionados à compreensão, justificativa, transparência, rastreabilidade, auditoria, conformidade regulatória, confiança ou outros objetivos associados à explicabilidade.
+Esta atividade auxilia na definição do escopo inicial da explicabilidade e na identificação dos aspectos que deverão ser posteriormente detalhados.
+
+**Quem**
+
+Engenheiro de Requisitos, Especialistas de Domínio e Especialistas em IA (quando aplicável)
+
+**Onde registrar**
+
+[[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+
+[Glossário](../artefatos/glossario.md)
+
+**Boas Práticas**
+- Focar inicialmente nos objetivos da explicabilidade, e não nas técnicas de explicação.
+- Identificar diferentes necessidades para diferentes perfis de stakeholders.
+- Considerar requisitos regulatórios, éticos e organizacionais relacionados à transparência.
+- Avaliar quais decisões possuem maior impacto e demandam maior nível de explicação.
+- Registrar conflitos ou divergências entre expectativas dos stakeholders.
+
+***4. Identificar os stakeholders e suas necessidades de explicabilidade***
+
+**O que fazer**
+
+Identificar os stakeholders que interagem, utilizam, supervisionam ou são impactados pelas decisões apoiadas pelo sistema baseado em Inteligência Artificial.
+Para cada stakeholder, identificar quais informações precisam ser explicadas, os objetivos dessas explicações, o contexto de uso e as expectativas relacionadas à compreensão das decisões do sistema.
+Esta atividade auxilia na definição do escopo inicial da explicabilidade e na identificação dos aspectos que deverão ser posteriormente detalhados.
+
+**Quem**
+
+Engenheiro de Requisitos, Especialistas de Domínio e Stakeholders.
+
+**Onde registrar**
+
+[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+
+**Boas Práticas**
+- Considerar usuários finais, operadores, gestores, reguladores e demais partes interessadas.
+- Identificar diferentes níveis de conhecimento técnico entre os stakeholders.
+- Registrar objetivos distintos para as explicações, como compreensão, confiança, auditoria ou conformidade.
+- Evitar assumir que todos os stakeholders possuem as mesmas necessidades de explicabilidade.
+- Validar as necessidades identificadas diretamente com os stakeholders???
+
+
+
+***5. Identificar e capturar requisitos adicionais relacionados à explicabilidade***
+
+**O que fazer**
+
+Identificar restrições, dependências, pressupostos e requisitos complementares que possam influenciar a disponibilização das explicações.
+Esses requisitos podem estar relacionados a aspectos de desempenho, segurança, privacidade, rastreabilidade, auditoria, conformidade regulatória, documentação ou limitações técnicas do sistema de Inteligência Artificial.
+
+**Quem**
+Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialistas em IA/AM (quando aplicável)
+
+**Onde registrar**
+[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+
+[Lista de Itens de Trabalho](VAMOS TER???)
+
+**Boas práticas**
+- Considerar requisitos legais e regulatórios aplicáveis ao domínio.
+- Avaliar impactos da explicabilidade sobre desempenho e experiência do usuário.
+- Registrar pressupostos que possam afetar a geração das explicações.
+- Identificar limitações técnicas dos modelos de IA/AM utilizados.
+- Considerar necessidades de auditoria e rastreabilidade desde o início do projeto.
+
+***6. Obter consenso***
+
+**O que fazer**
+
+Revisar os requisitos de explicabilidade identificados junto aos stakeholders e à equipe do projeto para assegurar entendimento comum, consistência e alinhamento com os objetivos do sistema. O objetivo é validar se as necessidades identificadas representam adequadamente as expectativas dos stakeholders e se o escopo inicial da explicabilidade está devidamente definido.
+
+**Quem**
+
+Engenheiro de Requisitos, Stakeholders, Equipe do Projeto
+
+**Onde registrar**
+[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+
+[Lista de Itens de Trabalho](VAMOS TER???)
+
+**Boas práticas**
+- Realizar revisões colaborativas.
+- Resolver ambiguidades e inconsistências identificadas.
+- Registrar decisões e justificativas relevantes.
+- Garantir alinhamento entre objetivos de negócio e necessidades de explicabilidade.
+- Validar os requisitos antes do detalhamento.
+
+***7. Atualizar a Lista de Itens de Trabalho (Se houver)***
+
+**O que fazer**
+
+Registrar os requisitos de explicabilidade identificados para que possam ser acompanhados, priorizados, refinados e detalhados ao longo do projeto.
+Esses registros servirão como base para o planejamento das próximas atividades da Engenharia de Requisitos.
+
+**Quem**
+Engenheiro de Requisitos
+
+**Onde registrar**
+Lista de Itens de Trabalho
+
+**Boas práticas**
+- Registrar cada requisito de forma clara e rastreável.
+- Associar requisitos aos stakeholders correspondentes.
+- Manter histórico de alterações e refinamentos.
+- Priorizar requisitos de acordo com os objetivos do projeto.
+- Garantir alinhamento entre a Lista de Itens de Trabalho e os artefatos produzidos.
+
+## Principais considerações
+A colaboração com os Stakeholders nesta tarefa é crítica para o sucesso da implementação do requisito de explicabilidade. Veja o princípio [Colaborar para alinhar os interesses e compartilhar o entendimento???] para mais informações.
+
+
 
 ## Informações Adicionais
 
 **Listas de Verificação:**  
-- [Documento de Visão de Explicabilidade](../tarefas/documento-requisito.md) 
+- [Qualidade de Bons Requisitos de Explicabilidade](???)
+- [Requisitos Adicionais](???)
 
 **Conceitos:**  
 - [Requisitos](#)
 
   **Diretrizes:**  
-- [Revisão eficaz de Requisitos](#)
-- [Técnicas Para Obtenção de Requisitos de Explicabilidade](#)
+- [O que considerar](???)
 ---
 **Referências:**  
-- [Link para o OpenUP Original]
+- [Link para o OpenUP Original](file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/tasks/find_and_outline_requirements_90D272B9.html)
 
 🧩 **OpenUP4ER — Framework de Engenharia de Requisitos para Explicabilidade em Sistemas de IA**
 
