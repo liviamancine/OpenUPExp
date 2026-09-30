@@ -44,6 +44,11 @@ Uma declaração de posicionamento comunica a intenção do produto e sua import
 
 ### 3.1 Resumo dos stakeholders 
 
+descricao - Breve descrição do stakeholder e de sua relação com o sistema e/ou com a explicabilidade, conforme sustentado pelas informações disponíveis.
+
+responsabilidade - Síntese das principais responsabilidades, interesses ou expectativas do stakeholder em relação à explicabilidade do sistema, derivada das informações produzidas pelos Workers anteriores.
+
+
 | Stakeholders                     | Descrição                                      | Responsabilidade                                        |
 |------------------------------|------------------------------------------------|---------------------------------------------------------|
 | **Cliente**                  | representa a organização que financia o projeto| Garante que os requisitos de explicabilidade estejam alinhados com metas de negócio|
