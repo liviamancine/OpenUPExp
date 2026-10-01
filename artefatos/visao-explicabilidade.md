@@ -65,7 +65,7 @@ Detalhar o contexto de uso: onde os usuários interagem com explicações, neces
 
 ## 4. Visão Geral da Explicabilidade 
 
-### 4.1 Necessidades e Funcionalidades 
+### 4.1 Necessidades e Aspecto Associado 
 
 Evite detalhes de design. Mantenha as descrições das funcionalidades em um nível geral. Concentre-se nas capacidades necessárias e no porquê (não em como) elas devem ser implementadas. Registre a prioridade das partes interessadas e o lançamento planejado para cada funcionalidade.
 
