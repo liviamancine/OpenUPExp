@@ -34,9 +34,9 @@ Apresente uma declaração que resuma o problema que este projeto visa resolver.
 | **Para quem** | público-alvo do sistema |
 | **Para que** | necessitam compreender, auditar ou confiar nas decisões do sistema |
 | **O (nome do produto)** | é um(a) *[categoria do produto]* |
-| **Que** | O que o produto faz, seu benefício principal. |
-| **Unlike** | *[principal alternativa concorrente]* |
-| **Our product** | *[principal diferencial do produto]* |
+| **Benefício principal** | O que o produto faz, seu benefício principal. |
+| **Alternativa concorrente** | *[principal alternativa concorrente]* |
+| **Diferenciação do produto** | *[principal diferencial do produto]* |
 
 Uma declaração de posicionamento comunica a intenção do produto e sua importância para todos os envolvidos no projeto.
 
