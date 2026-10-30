@@ -159,6 +159,7 @@ A tabela abaixo resume a prioridade desses requisitos, considerando estabilidade
 | Suporte para explicações visuais | Média | Versão 2 | 
 
 ---
+## 6. Definição do Escopo e Limites da Explicabilidade
 
 
 
