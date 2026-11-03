@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="_2026110306432" targetNamespace="http://www.bizagi.com/definitions/_2026110306432" xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL">
+<definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="_2026110307254" targetNamespace="http://www.bizagi.com/definitions/_2026110307254" xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL">
   <process id="Id_5bad9373-389b-438d-875c-2d44134773bb" name="Processo principal">
     <documentation />
     <laneSet id="Id_c09e629a-e9af-42b5-81a0-2f5b7f81d9b8" />
@@ -188,77 +188,77 @@
       </extensionElements>
     </participant>
   </collaboration>
-  <BPMNDiagram id="Diagram_ba51711d-735f-48d4-9a2d-e19b67bc895a" xmlns="http://www.omg.org/spec/BPMN/20100524/DI">
-    <BPMNPlane id="DiagramElement_94cb2489-4e45-4bf6-a3c4-4814cc827b10" bpmnElement="Id_4aa69190-097a-4265-a7d2-446f5a54e77a">
+  <BPMNDiagram id="Diagram_d52cd3f2-ff94-40f0-bfcb-0b138fc45fb6" xmlns="http://www.omg.org/spec/BPMN/20100524/DI">
+    <BPMNPlane id="DiagramElement_c721d693-dcee-4bfa-94ca-28d2768be90f" bpmnElement="Id_4aa69190-097a-4265-a7d2-446f5a54e77a">
       <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
-      <BPMNShape id="DiagramElement_976da34b-87d5-43a1-9e40-b985b628954d" bpmnElement="Id_4ecb775c-b600-49cf-b717-c31c0f50c7b2" isHorizontal="true">
+      <BPMNShape id="DiagramElement_7d75c7e5-0d75-4463-b431-0e6edc1ea6e9" bpmnElement="Id_4ecb775c-b600-49cf-b717-c31c0f50c7b2" isHorizontal="true">
         <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <Bounds x="30" y="30" width="700" height="350" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
-        <BPMNLabel id="DiagramElement_00e19390-192d-47dc-914e-be39a64f002b" labelStyle="Style_b0c38caf-619c-440f-84e4-5a424fe087ee">
+        <BPMNLabel id="DiagramElement_74c19d86-11fa-4f64-90e0-500e3da99a70" labelStyle="Style_72955c38-5433-4e4a-b89e-ff8cdc402e15">
           <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
           <Bounds x="0" y="0" width="0" height="0" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
         </BPMNLabel>
       </BPMNShape>
-      <BPMNShape id="DiagramElement_5eced99e-8168-486d-8083-53889b949d2f" bpmnElement="Id_75468af7-907a-4ab4-bb01-1aa073c0f22a" isHorizontal="true">
+      <BPMNShape id="DiagramElement_5916363e-acd5-4ebe-8bc4-1086992c4b6c" bpmnElement="Id_75468af7-907a-4ab4-bb01-1aa073c0f22a" isHorizontal="true">
         <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <Bounds x="103" y="30" width="541" height="286" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
-        <BPMNLabel id="DiagramElement_877ca495-12d8-4448-8ced-758a1f4f497b" labelStyle="Style_80e9e84a-58f6-4558-adca-1fd3551ecf11">
+        <BPMNLabel id="DiagramElement_5564c6e2-4810-4f40-bf1e-8ac442c5a035" labelStyle="Style_417aa67f-7899-4981-900b-1ee668f8aa76">
           <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
           <Bounds x="0" y="0" width="0" height="0" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
         </BPMNLabel>
       </BPMNShape>
-      <BPMNShape id="DiagramElement_af00706a-2994-439e-9ed5-1110cd12efe1" bpmnElement="Id_0fe36ffe-2ff5-4609-becf-10f85802c1bf">
+      <BPMNShape id="DiagramElement_5898775a-0d5c-4e67-a36a-0e2783b91e67" bpmnElement="Id_0fe36ffe-2ff5-4609-becf-10f85802c1bf">
         <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <Bounds x="266" y="73" width="40" height="50" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
-        <BPMNLabel id="DiagramElement_14f369f3-8ad9-477b-8af3-c61abf45f9b2" labelStyle="Style_729544d2-0348-45ca-8829-ce6a2bb63bac">
+        <BPMNLabel id="DiagramElement_6ac02c3c-6660-48e0-a30f-8b1f73d1e0d1" labelStyle="Style_3141338d-49b9-4e6d-b6b2-93fa21788237">
           <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
           <Bounds x="268" y="65" width="90" height="30" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
         </BPMNLabel>
       </BPMNShape>
-      <BPMNShape id="DiagramElement_aea1cc95-0007-4d86-8a43-f5aab0b8e32c" bpmnElement="Id_90ad6c28-99a5-4ea1-bb6f-ae6c8030143f">
+      <BPMNShape id="DiagramElement_19fb8a1d-0656-4572-b6f2-e4cdfd478179" bpmnElement="Id_90ad6c28-99a5-4ea1-bb6f-ae6c8030143f">
         <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <Bounds x="286" y="175" width="90" height="60" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
-        <BPMNLabel id="DiagramElement_9738a105-cc62-4bf5-8489-0879ca94ebfa" labelStyle="Style_2c380507-821c-44bf-8de8-ad26ecd00bab">
+        <BPMNLabel id="DiagramElement_cb4bdb91-33ef-43ed-a972-b628853d50a1" labelStyle="Style_5312630b-3d10-43bf-a749-1d0655ccd46c">
           <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
           <Bounds x="0" y="0" width="90" height="60" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
         </BPMNLabel>
       </BPMNShape>
-      <BPMNShape id="DiagramElement_517021c5-4cb6-46f7-8c2b-707ce7479dd3" bpmnElement="Id_0b90f65f-f716-4b19-91c8-60f1dc69e2a3">
+      <BPMNShape id="DiagramElement_62343164-056b-4fdb-a707-b9b5b76b815a" bpmnElement="Id_0b90f65f-f716-4b19-91c8-60f1dc69e2a3">
         <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <Bounds x="426" y="172" width="90" height="60" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
-        <BPMNLabel id="DiagramElement_7c867b75-767e-4718-a4bc-90dd288fab2a" labelStyle="Style_c1d3257a-a6e9-46b8-9ae7-4915bcf09f5f">
+        <BPMNLabel id="DiagramElement_eff2dd9f-9edb-4b21-887d-4dd97fb07afa" labelStyle="Style_491ccc86-2298-4a9e-a87d-69219f4c3ca8">
           <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
           <Bounds x="0" y="0" width="90" height="60" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
         </BPMNLabel>
       </BPMNShape>
-      <BPMNShape id="DiagramElement_aec43176-7e8f-46d4-9247-0f1be4bc33b4" bpmnElement="Id_6c537335-eaca-49ac-b3c9-85e51e70ce7f">
+      <BPMNShape id="DiagramElement_be983782-c340-4200-a11c-27afc2831424" bpmnElement="Id_6c537335-eaca-49ac-b3c9-85e51e70ce7f">
         <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <Bounds x="206" y="190" width="30" height="30" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
       </BPMNShape>
-      <BPMNShape id="DiagramElement_224d0888-6cb5-4283-8a1a-18da59a09825" bpmnElement="Id_3916a7a7-3cb5-440a-bc38-072bbd802ac2">
+      <BPMNShape id="DiagramElement_410a6d14-5df0-49a5-b042-61c30e35387f" bpmnElement="Id_3916a7a7-3cb5-440a-bc38-072bbd802ac2">
         <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <Bounds x="558" y="189" width="30" height="30" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
       </BPMNShape>
-      <BPMNEdge id="DiagramElement_11b6bfdc-9fb0-4d18-9721-e01a4b7f8be9" bpmnElement="Id_70a93446-bb62-4b09-af13-7502d00936e0">
+      <BPMNEdge id="DiagramElement_9bc20818-d608-4499-b534-6898fef161bb" bpmnElement="Id_70a93446-bb62-4b09-af13-7502d00936e0">
         <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <waypoint x="236" y="205" xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <waypoint x="286" y="205" xmlns="http://www.omg.org/spec/DD/20100524/DI" />
       </BPMNEdge>
-      <BPMNEdge id="DiagramElement_c44683c1-258f-48f0-a5de-5113eb7fcaef" bpmnElement="Id_6b22a508-44ed-4482-b5b4-99e530289420">
+      <BPMNEdge id="DiagramElement_06261120-c7bd-4883-9d3e-4325b39af566" bpmnElement="Id_6b22a508-44ed-4482-b5b4-99e530289420">
         <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <waypoint x="376" y="205" xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <waypoint x="401" y="205" xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <waypoint x="401" y="204" xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <waypoint x="426" y="204" xmlns="http://www.omg.org/spec/DD/20100524/DI" />
       </BPMNEdge>
-      <BPMNEdge id="DiagramElement_7f52f510-d10d-4423-9a35-ce6dad19760b" bpmnElement="Id_81195c30-5a5f-4ccf-bd9e-eab6d118ac3f">
+      <BPMNEdge id="DiagramElement_5d7617b8-c4eb-4deb-bd77-dd7dcb80b27e" bpmnElement="Id_81195c30-5a5f-4ccf-bd9e-eab6d118ac3f">
         <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <waypoint x="516" y="204" xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <waypoint x="541" y="204" xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <waypoint x="541" y="203" xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <waypoint x="558" y="203" xmlns="http://www.omg.org/spec/DD/20100524/DI" />
       </BPMNEdge>
-      <BPMNEdge id="DiagramElement_b53b13f0-b8d5-4bf7-9c9f-f129c8169898" bpmnElement="Id_af5c0753-1bdf-4cdd-924c-c05ad0aca0f4">
+      <BPMNEdge id="DiagramElement_c28b6217-5362-4e03-88cf-133c1573a9cd" bpmnElement="Id_af5c0753-1bdf-4cdd-924c-c05ad0aca0f4">
         <extension xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <waypoint x="286" y="123" xmlns="http://www.omg.org/spec/DD/20100524/DI" />
         <waypoint x="286" y="149" xmlns="http://www.omg.org/spec/DD/20100524/DI" />
@@ -266,19 +266,19 @@
         <waypoint x="320" y="175" xmlns="http://www.omg.org/spec/DD/20100524/DI" />
       </BPMNEdge>
     </BPMNPlane>
-    <BPMNLabelStyle id="Style_b0c38caf-619c-440f-84e4-5a424fe087ee">
+    <BPMNLabelStyle id="Style_72955c38-5433-4e4a-b89e-ff8cdc402e15">
       <Font name="Segoe UI" size="10" isBold="true" isItalic="false" isUnderline="false" isStrikeThrough="false" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
     </BPMNLabelStyle>
-    <BPMNLabelStyle id="Style_80e9e84a-58f6-4558-adca-1fd3551ecf11">
+    <BPMNLabelStyle id="Style_417aa67f-7899-4981-900b-1ee668f8aa76">
       <Font name="Segoe UI" size="10" isBold="true" isItalic="false" isUnderline="false" isStrikeThrough="false" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
     </BPMNLabelStyle>
-    <BPMNLabelStyle id="Style_729544d2-0348-45ca-8829-ce6a2bb63bac">
+    <BPMNLabelStyle id="Style_3141338d-49b9-4e6d-b6b2-93fa21788237">
       <Font name="Segoe UI" size="8" isBold="false" isItalic="false" isUnderline="false" isStrikeThrough="false" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
     </BPMNLabelStyle>
-    <BPMNLabelStyle id="Style_2c380507-821c-44bf-8de8-ad26ecd00bab">
+    <BPMNLabelStyle id="Style_5312630b-3d10-43bf-a749-1d0655ccd46c">
       <Font name="Segoe UI" size="8" isBold="false" isItalic="false" isUnderline="false" isStrikeThrough="false" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
     </BPMNLabelStyle>
-    <BPMNLabelStyle id="Style_c1d3257a-a6e9-46b8-9ae7-4915bcf09f5f">
+    <BPMNLabelStyle id="Style_491ccc86-2298-4a9e-a87d-69219f4c3ca8">
       <Font name="Segoe UI" size="8" isBold="false" isItalic="false" isUnderline="false" isStrikeThrough="false" xmlns="http://www.omg.org/spec/DD/20100524/DC" />
     </BPMNLabelStyle>
   </BPMNDiagram>
