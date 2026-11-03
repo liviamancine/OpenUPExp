@@ -6,7 +6,7 @@ const viewer = new BpmnJS({
 
 async function openDiagram() {
 
-    const response = await fetch('/bpmn/OpenUPExp Process.bpmn');
+    const response = await fetch('/bpmn/0 OpenUPExp Process.bpmn');
 
     const xml = await response.text();
 
