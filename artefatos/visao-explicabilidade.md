@@ -71,13 +71,13 @@ Evite detalhes de design. Mantenha as descrições das funcionalidades em um ní
 
 | Necessidade                     | Prioridade   |   Planned Release|
 |---------------------------------|--------------|-------------------------------------------|
-| **Entender decisões do sistema**               | Alta|    | Versão 1  |
-| **Possibilitar auditoria regulatória**         | Alta |  | Versão 1|
-| **Explicações ajustadas ao perfil do usuário** | Média |  | Versão 2|
-| **Garantir aderência a normas éticas e legais**| Alta |  | Versão 1|
+| **Entender decisões do sistema**               | Alta|   Versão 1  |
+| **Possibilitar auditoria regulatória**         | Alta |  Versão 1|
+| **Explicações ajustadas ao perfil do usuário** | Média | Versão 2|
+| **Garantir aderência a normas éticas e legais**| Alta |  Versão 1|
 
 
-## 5. Informações complementares relacionados à Explicabilidade
+## 5. Informações complementares relacionadas à Explicabilidade
 
 Esta seção descreve requisitos adicionais relacionados à explicabilidade que não foram capturados como aspectos de funcionalidade em um nível geral. Inclui padrões aplicáveis, requisitos técnicos, restrições de design, dependências, requisitos de documentação e critérios de qualidade relacionados às explicações geradas pelo sistema.
 
@@ -100,7 +100,7 @@ Liste normas técnicas, diretrizes regulatórias e regras organizacionais que im
 
 ---
 
-### 5.2 Requisitos de Plataforma, Hardware e Desempenho
+### 5.2 Plataforma, Hardware e Desempenho
 
 Descreve requisitos técnicos que influenciam a geração e apresentação de explicações.
 
@@ -111,7 +111,7 @@ Descreve requisitos técnicos que influenciam a geração e apresentação de ex
 
 ---
 
-### 5.3 Requisitos de Qualidade das Explicações
+### 5.3 Qualidade das Explicações
 
 Define parâmetros de qualidade esperados para as explicações, incluindo limites rígidos e faixas aceitáveis.
 
@@ -136,7 +136,7 @@ Identifica fatores externos que influenciam a viabilidade ou o formato das expli
 
 ---
 
-### 5.5 Requisitos de Documentação e Suporte
+### 5.5 Documentação e Suporte
 
 Define os materiais e orientações que devem acompanhar o sistema explicável.
 
