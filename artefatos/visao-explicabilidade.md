@@ -65,19 +65,19 @@ Detalhar o contexto de uso: onde os usuários interagem com explicações, neces
 
 ## 4. Visão Geral da Explicabilidade 
 
-### 4.1 Necessidades e Aspecto Associado 
+### 4.1 Necessidades 
 
 Evite detalhes de design. Mantenha as descrições das funcionalidades em um nível geral. Concentre-se nas capacidades necessárias e no porquê (não em como) elas devem ser implementadas. Registre a prioridade das partes interessadas e o lançamento planejado para cada funcionalidade.
 
-| Necessidade                     | Prioridade   | Característica/Aspecto Associado          | Planned Release|
-|---------------------------------|--------------|-------------------------------------------|----------------|
-| **Entender decisões do sistema**               | Alta| Transparência, Compreensibilidade   | Versão 1       |
-| **Possibilitar auditoria regulatória**         | Alta | Rastreabilidade, Confiabilidade das explicações | Versão 1|
-| **Explicações ajustadas ao perfil do usuário** | Média | Granularidade da explicação, Usabilidade das explicações | Versão 2|
-| **Garantir aderência a normas éticas e legais**| Alta | Ética e Conformidade legal | Versão 1|
+| Necessidade                     | Prioridade   |       | Planned Release|
+|---------------------------------|--------------|-------------------------------------------|
+| **Entender decisões do sistema**               | Alta|    | Versão 1  |
+| **Possibilitar auditoria regulatória**         | Alta |  | Versão 1|
+| **Explicações ajustadas ao perfil do usuário** | Média |  | Versão 2|
+| **Garantir aderência a normas éticas e legais**| Alta |  | Versão 1|
 
 
-## 5. Requisitos Adicionais relacionados á Explicabilidade
+## 5. Informações complementares relacionados à Explicabilidade
 
 Esta seção descreve requisitos adicionais relacionados à explicabilidade que não foram capturados como aspectos de funcionalidade em um nível geral. Inclui padrões aplicáveis, requisitos técnicos, restrições de design, dependências, requisitos de documentação e critérios de qualidade relacionados às explicações geradas pelo sistema.
 
