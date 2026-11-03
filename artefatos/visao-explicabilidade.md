@@ -69,7 +69,7 @@ Detalhar o contexto de uso: onde os usuários interagem com explicações, neces
 
 Evite detalhes de design. Mantenha as descrições das funcionalidades em um nível geral. Concentre-se nas capacidades necessárias e no porquê (não em como) elas devem ser implementadas. Registre a prioridade das partes interessadas e o lançamento planejado para cada funcionalidade.
 
-| Necessidade                     | Prioridade   |       | Planned Release|
+| Necessidade                     | Prioridade   |   Planned Release|
 |---------------------------------|--------------|-------------------------------------------|
 | **Entender decisões do sistema**               | Alta|    | Versão 1  |
 | **Possibilitar auditoria regulatória**         | Alta |  | Versão 1|
