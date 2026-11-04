@@ -2,7 +2,7 @@
 # Fase de Elaboração (OpenUP4Exp)
 
 Segunda fase do processo.
-A fase de Elaboração tem como objetivo estabelecer três artefatos principais Elicitação de Explicabilidade[Explainability Needs](../artefatos/explainability-needs.md), Análise de Explicabilidade [Refined Explainability Requirements](../artefatos/refined-explainability-requirements.md) e Especificação da Explicabilidade [User Stories](user-stories.md), que compõem o [Documento de Requisitos de Explicabilidade (DRE)](DRE.md).
+A fase de Elaboração tem como objetivo estabelecer três artefatos principais Elicitação de Explicabilidade[Explainability Needs](../artefatos/explainability-needs.md), Análise de Explicabilidade [Refined Explainability Requirements](../artefatos/refined-explainability-requirements.md) e Especificação da Explicabilidade [User Stories](user-stories.md), que compõem o [Documento de Requisitos de Explicabilidade (DRE)](../artefatos/ERD.md).
 
 Descrição Principal
 
@@ -79,7 +79,7 @@ Nessas situações, recomenda-se iniciar pela implementação e validação de c
                   
 ---
 Observação sobre o framework
-Conforme o processo evolui, o [DRE](DRE.md) é continuamente atualizado a cada iteração e interação das fases seguintes (Concepção e Elaboração), incorporando novos requisitos, refinamentos arquiteturais, decisões de projeto e resultados de testes de usabilidade (VALIDAR) e validação de explicabilidade.
+Conforme o processo evolui, o [DRE](../artefatos/ERD.md) é continuamente atualizado a cada iteração e interação das fases seguintes (Concepção e Elaboração), incorporando novos requisitos, refinamentos arquiteturais, decisões de projeto e resultados de testes de usabilidade (VALIDAR) e validação de explicabilidade.
 
 Esse processo incremental assegura que a explicabilidade seja tratada como um requisito não funcional essencial, integrado desde a concepção e evoluindo conforme o conhecimento sobre o sistema também evolui.
 
