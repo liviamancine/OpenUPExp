@@ -5,7 +5,7 @@
 Esta tarefa descreve como identificar os requisitos de explicabilidade de sistemas baseados em Inteligência Artificial, de forma que o escopo das necessidades de explicação possa ser determinado e alinhado aos objetivos dos stakeholders.
 
 Observação:
-Os resultados obtidos servem como base para a definição da Visão da Explicabilidade e para o posterior detalhamento dos requisitos de explicabilidade.
+Os resultados obtidos servem como base para a definição dos requisitos de explicabilidade.
 
 [Disciplina: Requisitos](../disciplina/requisitos.md)
 
@@ -23,13 +23,12 @@ O objetivo é obter uma compreensão inicial das necessidades de explicabilidade
 
 **Entradas**  
 - **Obrigatório:**  
-  - [Glossário](../artefatos/glossario.md) 
-  - [Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+   - [Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
 - **Opcional:**  
   - Nenhum
 - **Saídas:**  
   - [Glossário](../artefatos/glossario.md)
-  - [Especificação da Explicabilidade](../artefatos/DRE.md)
+  - [Especificação da Explicabilidade](../artefatos/ERD.md)
 ---
 ## Passos
 
@@ -50,7 +49,7 @@ O objetivo é compreender:
 Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialistas em IA (quando aplicável)
 
 **Onde registrar**
-[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+[Visão da Explicabilidade](../artefatos/ERD.md)
 
 [Glossário](../artefatos/glossario.md)
 
@@ -88,7 +87,7 @@ Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialista
 - Atualizar o glossário continuamente à medida que novos termos forem identificados.
 - Garantir consistência entre os termos utilizados nos artefatos do projeto.
 
-***3.Identificar os stakeholders e suas necessidades de explicabilidade***
+***3. Identificar os stakeholders e suas necessidades de explicabilidade***
 
 **O que fazer**
 
@@ -102,7 +101,7 @@ Engenheiro de Requisitos, Especialistas de Domínio e Stakeholders.
 
 **Onde registrar**
 
-[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+[Visão da Explicabilidade](../artefatos/ERD.md)
 
 **Boas Práticas**
 - Considerar usuários finais, operadores, gestores, reguladores e demais partes interessadas.
@@ -125,7 +124,7 @@ Engenheiro de Requisitos, Especialistas de Domínio e Especialistas em IA (quand
 
 **Onde registrar**
 
-[[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+[[Visão da Explicabilidade](../artefatos/ERD.md)
 
 [Glossário](../artefatos/glossario.md)
 
@@ -148,9 +147,9 @@ Esses requisitos podem estar relacionados a aspectos de desempenho, segurança, 
 Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialistas em IA/AM (quando aplicável)
 
 **Onde registrar**
-[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+[Visão da Explicabilidade](../artefatos/ERD.md)
 
-[Lista de Itens de Trabalho](VAMOS TER???)
+[Lista de Itens de Trabalho] (Fora do escopo atual)
 
 **Boas práticas**
 - Considerar requisitos legais e regulatórios aplicáveis ao domínio.
@@ -170,9 +169,9 @@ Revisar os requisitos de explicabilidade identificados junto aos stakeholders e 
 Engenheiro de Requisitos, Stakeholders, Equipe do Projeto
 
 **Onde registrar**
-[Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
+[Visão da Explicabilidade](../artefatos/ERD.md)
 
-[Lista de Itens de Trabalho](VAMOS TER???)
+[Lista de Itens de Trabalho] (Fora do escopo atual)
 
 **Boas práticas**
 - Realizar revisões colaborativas.
@@ -181,7 +180,7 @@ Engenheiro de Requisitos, Stakeholders, Equipe do Projeto
 - Garantir alinhamento entre objetivos de negócio e necessidades de explicabilidade.
 - Validar os requisitos antes do detalhamento.
 
-***7. Atualizar a Lista de Itens de Trabalho (Se houver)***
+***7. Atualizar a Lista de Itens de Trabalho (Fora do escopo atual)***
 
 **O que fazer**
 
