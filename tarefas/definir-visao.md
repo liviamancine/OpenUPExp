@@ -33,7 +33,7 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
   - [Lista de Item de Trabalhos](#)
   - [Visão Explicabilidade](../artefatos/TEMPLATE-definir.visao.md)
 - **Saída Principal**
-  - [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md)
+  - [Documento de Requisitos de Explicabilidade - DRE](../artefatos/ERD.md)
 ---
 ## Passos
 ***1. Identificar Stakeholders e Necessidades de Explicabilidade***

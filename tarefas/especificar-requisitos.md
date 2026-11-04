@@ -30,7 +30,7 @@ Especificar os requisitos de explicabilidade previamente analisados, transforman
 - **Opcional:**  
   - Nenhum
 - **Saídas:**  
-    - [Especificação da Explicabilidade](../artefatos/DRE.md)
+    - [Especificação da Explicabilidade](../artefatos/ERD.md)
 ---
 ## Passos
 
@@ -52,7 +52,7 @@ Engenheiro de Requisitos, Stakeholders, Especialista de domínio e Especialista 
 
 **Onde registrar**
 
-[DRE](../artefatos/DRE.md)
+[DRE](../artefatos/ERD.md)
 
 **Boas Práticas**
 
@@ -87,7 +87,7 @@ Engenheiro de Requisitos, Stakeholders, Especialista de domínio e equipe de des
 
 **Onde registrar**
 
-[DRE](../artefatos/DRE.md)
+[DRE](../artefatos/ERD.md)
 
 **Boas Práticas**
 - Especificar critérios claros, objetivos e verificáveis.
@@ -120,7 +120,7 @@ Engenheiro de Requisitos, Especialista de domínio, Especialista em IA e Stakeho
 
 **Onde registrar**
 
-[DRE](../artefatos/DRE.md)
+[DRE](../artefatos/ERD.md)
 
 **Boas Práticas**
 - Descrever as características sob a perspectiva do stakeholder.
@@ -155,7 +155,7 @@ Engenheiro de Requisitos.
 
 **Onde registrar**
 
-[DRE](../artefatos/DRE.md)
+[DRE](../artefatos/ERD.md)
 
 **Boas Práticas**
 - Manter identificadores únicos para cada requisito.
@@ -181,7 +181,7 @@ Engenheiro de Requisitos
 
 **Onde registrar**
 
-[DRE](../artefatos/DRE.md)
+[DRE](../artefatos/ERD.md)
 
 **Boas Práticas**
 - Verificar a consistência entre os requisitos especificados.
@@ -208,7 +208,7 @@ Engenheiro de Requisitos, Gerente de Projeto, Arquiteto de software, Especialist
 
 **Onde registrar**
 
-[DRE](../artefatos/DRE.md)
+[DRE](../artefatos/ERD.md)
 
 **Boas Práticas**
 - Promover revisões colaborativas com representantes dos principais stakeholders.

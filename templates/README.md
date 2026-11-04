@@ -33,7 +33,7 @@ Qual o objetivo ao descrever essa tarefa?
   - [Lista de Item de Trabalhos](#)
   - [Visão Explicabilidade](../artefatos/TEMPLATE-definir.visao.md)
 - **Saída Principal**
-  - [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md)
+  - [Documento de Requisitos de Explicabilidade - DRE](../artefatos/ERD.md)
 ---
 ## Passos
 
