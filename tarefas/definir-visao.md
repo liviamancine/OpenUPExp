@@ -118,37 +118,7 @@ O glossário é uma lista simples em ordem alfabética dos termos do domínio e 
 - Terminologia do domínio do problema: específica ao contexto de aplicação
 
 ---
-***4. Obtenha as solicitações dos Stakeholders (elicitação focada em explicabilidade)***
-
-**O que fazer**
-
-- Planejar técnicas de elicitação: entrevistas, questionários, card-sorting para formatos de explicação, protótipos de baixa fidelidade. 
-- Capturar requisitos funcionais e não funcionais de explicabilidade (quem, quando, como, nível de detalhe, tempo de resposta).
-
-**Quem**
-
-- Engenheiro de Requisitos (conduz), Stakeholders e UX Designer (para protótipos)
-
-**Onde registrar**
-
-- [Descrever os Requisitos](../tarefas/documento-requisito.md) → 4.1 Necessidades e Funcionalidades
-- Lista de Itens de Trabalho [cada requisito vira item rastreável](VALIDAR)
-
-**Boas práticas**
-
-Se você puder se encontrar pessoalmente com os Stakeholders, então você poderá conduzir uma entrevista ou uma sessão de brainstorming. Esta colaboração face-a-face é extremamente valiosa e reduz as possibilidades da equipe de projeto não entender as necessidades dos Stakeholders. Alguns requisitos podem já ter sido documentados em uma [Lista de Itens de Trabalho existente](VERIFICAR). Isto pode normalmente ser usado como um sólido ponto de partida do qual um conjunto completo de requisitos de explicabilidade possa ser criado.
-
-Qualquer requisito obtido durante esta etapa deve ser capturado na [Lista de Itens de Trabalho existente](VERIFICAR). Para mais informações, veja Tarefa: [Encontrar e Descrever os Requisitos](VERIFICAR).
-
-*Perguntas/artefatos*
-
-Que informação é necessária para o usuário confiar numa decisão automática?
-
-Quais informações são necessárias para que o usuário entenda os fatores mais relevantes envolvidos na decisão?
-
-
----
-***5. Identificar as restrições no sistema (impactos para explicabilidade)***
+***4. Identificar as restrições no sistema (impactos para explicabilidade)***
 
 **O que fazer**
 
@@ -163,7 +133,7 @@ Engenheiro de Requisitos, Gerente de Projeto, Arquiteto e especialista em ética
 [Documento de Visão da Explicabilidade](../tarefas/documento-requisito.md) → seção 4.1 Necessidades e Funcionalidade e 5. Outros Requisitos do Produto (Explicabilidade)
 
 ---
-***6. Definir os limites da Explicabilidade***
+***5. Definir os limites da Explicabilidade***
 
 **O que fazer**
 
@@ -188,7 +158,7 @@ Engenheiro de Requisitos, Arquiteto de Software e Gerente de Projeto.
 - Veja Tarefa: [Checklist para delimitar explicabilidade](../tarefas/checklist-explicabilidade.md)
 
 ---
-***7. Obter consenso (revisão da Visão)***
+***6. Obter consenso (revisão da Visão)***
 
 **O que fazer**
 
