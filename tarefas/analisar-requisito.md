@@ -190,7 +190,7 @@ Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialista
 
 **Onde registrar**
 
-- [DRE] - ver onde registrar
+- [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md) 
 
 **Boas Práticas**
 
@@ -222,7 +222,7 @@ Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialista
 
 **Onde registrar**
 
-[DRE] - ver onde registrar
+- [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md) 
 
 Boas Práticas
 
@@ -249,7 +249,7 @@ Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquit
 
 **Onde registrar**
 
-- [DRE]
+- [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md) 
 
 **Boas Práticas**
 
@@ -277,7 +277,7 @@ Engenheiro de Requisitos (facilitador), Arquiteto de Software, Especialista em I
 
 **Onde registrar**
 
-- [DRE] 
+- [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md) 
 
 **Boas Práticas**
 
@@ -308,7 +308,7 @@ Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquit
 
 **Onde registrar**
 
-- [DRE]
+- [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md) 
 
 **Boas Práticas**
 
@@ -329,7 +329,7 @@ Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquit
 
 **Onde registrar**
 
-- [DRE] 
+- [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md) 
 
 **Boas Práticas**
 
