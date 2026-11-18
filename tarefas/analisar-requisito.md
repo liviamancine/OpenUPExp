@@ -1,4 +1,4 @@
-# Tarefa: Refined Explainability Requirements (Passos)
+# Tarefa: Analisar Requisitos de Explicabilidade (Passos)
 
 **Descrição:**  
 Definir a análise dos requisitos de explicabilidade
