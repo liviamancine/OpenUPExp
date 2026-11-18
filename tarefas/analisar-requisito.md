@@ -62,7 +62,7 @@ Para cada requisito, validar:
 
 **Onde registrar**
 
-[DRE] - 
+- [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md) 
 
 **Boas Práticas**
 
@@ -107,7 +107,7 @@ Exemplo:
 
 **Onde registrar**
 
-- [DRE] - ver onde registrar
+- [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md) 
 
 **Boas Práticas**
 
@@ -155,7 +155,7 @@ Engenheiro de Requisitos (líder), Stakeholders e Especialista em Ética e Regul
 **Onde registrar**
 
 - Mapa de contribuições meio-fim (requisito, aspecto de qualidade, tipo de contribuição, rótulo e justificativa)
-- [DRE] - ver onde registrar
+- [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md) 
 
 
 **Boas práticas**
