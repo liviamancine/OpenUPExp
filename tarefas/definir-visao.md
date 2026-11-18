@@ -118,7 +118,24 @@ O glossário é uma lista simples em ordem alfabética dos termos do domínio e 
 - Terminologia do domínio do problema: específica ao contexto de aplicação
 
 ---
-***4. Identificar as restrições no sistema (impactos para explicabilidade)***
+
+***4. Consolidar as necessidades de explicabilidade***
+
+**O que fazer**
+
+Reunir as necessidades de explicabilidade identificadas para os diferentes stakeholders, eliminar repetições e atribuir a cada necessidade uma prioridade e uma versão planejada. Manter as necessidades em alto nível, concentrando-se no porquê, e não no como.
+
+**Quem**
+
+Engenheiro de Requisitos (facilitador), Stakeholders e Gerente de Projeto.
+
+**Onde registrar**
+
+[Documento de Visão da Explicabilidade](../artefatos/visao-explicabilidade.md) → seção 4.1 Necessidades
+
+---
+
+***5. Identificar as restrições no sistema (impactos para explicabilidade)***
 
 **O que fazer**
 
@@ -133,7 +150,7 @@ Engenheiro de Requisitos, Gerente de Projeto, Arquiteto e especialista em ética
 [Documento de Visão da Explicabilidade](../tarefas/documento-requisito.md) → seção 4.1 Necessidades e Funcionalidade e 5. Outros Requisitos do Produto (Explicabilidade)
 
 ---
-***5. Definir os limites da Explicabilidade***
+***6. Definir os limites da Explicabilidade***
 
 **O que fazer**
 
@@ -144,7 +161,6 @@ Essa delimitação estabelece o escopo da explicabilidade, distinguindo os eleme
 Devem ser identificadas:
 - As decisões, recomendações ou previsões do sistema que requerem explicação
 - Os perfis de stakeholders que receberão explicações (por exemplo, usuários finais, especialistas de domínio, auditores)
-- Os tipos de explicação esperados (local, global, textual, visual, simbólica)
 - Os pontos de interação onde a explicação será apresentada
 
 As informações de entrada e saída envolvidas no processo explicativo, incluindo dados, atributos relevantes e resultados do modelo.
@@ -158,7 +174,27 @@ Engenheiro de Requisitos, Arquiteto de Software e Gerente de Projeto.
 - Veja Tarefa: [Checklist para delimitar explicabilidade](../tarefas/checklist-explicabilidade.md)
 
 ---
-***6. Obter consenso (revisão da Visão)***
+
+***7. Elaborar a Visão da Explicabilidade***
+
+**O que fazer**
+
+Consolidar no Documento de Visão da Explicabilidade as informações produzidas nos passos anteriores: declaração do problema, posicionamento, stakeholders e ambiente do usuário, necessidades, restrições, escopo e limites. O resultado é a versão preliminar da Visão, que será validada no passo seguinte.
+
+**Quem**
+
+Engenheiro de Requisitos.
+
+**Onde registrar**
+
+[Documento de Visão da Explicabilidade](../artefatos/visao-explicabilidade.md) (versão preliminar)
+
+---
+
+
+
+---
+***8. Obter consenso (revisão da Visão)***
 
 **O que fazer**
 
