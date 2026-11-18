@@ -190,10 +190,6 @@ Engenheiro de Requisitos.
 [Documento de Visão da Explicabilidade](../artefatos/visao-explicabilidade.md) (versão preliminar)
 
 ---
-
-
-
----
 ***8. Obter consenso (revisão da Visão)***
 
 **O que fazer**
