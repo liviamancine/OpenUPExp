@@ -40,7 +40,7 @@ A análise de explicabilidade tem como objetivo transformar as necessidades de e
   - [Glossário](#)
   - [Lista de Item de Trabalhos](#)
   - Mapa de contribuições meio-fim
-  - [Documento de Requisitos de Explicabilidade - DRE](../artefatos/ERD.md)
+  - [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md)
 ---
 
 ## Passos
