@@ -65,7 +65,7 @@ Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialista
 - Card-sorting e protótipos de baixa fidelidade para explorar as necessidades de explicação.
 
 *Perguntas úteis*
-- Que informação o usuário precisa para confiar em um resultado automática?
+- Que informação o usuário precisa para confiar em um resultado automático?
 - Quais informações o usuário precisa para entender os fatores mais relevantes envolvidos na decisão?
 
 
