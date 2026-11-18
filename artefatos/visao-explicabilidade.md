@@ -9,9 +9,9 @@
 Este documento apresenta uma visão geral do requisito de explicabilidade.
 
 Sugestão:
-O problema da falta de explicabilidade em sistemas de Aprendizado de Máquina aplicados a [tarefa/objetivo do sistema] afeta diretamente [categoria de usuários impactados], pois gera [dificuldades ou limitações observadas, como falta de compreensão, perda de confiança, necessidade de transparência].
+O problema da falta de explicabilidade nas decisões do sistema de IA aplicado a [tarefa/objetivo do sistema] afeta diretamente [stakeholders impactados], pois gera [dificuldades observadas na prática, ex.: analistas não conseguem justificar uma recusa ao cliente; decisões são refeitas manualmente].
 
-Uma solução bem-sucedida deve fornecer [tipo de explicações desejadas: técnicas, claras, rastreáveis, contextualizadas, adaptadas ao usuário], permitindo que [usuário ou papel] consiga [ação esperada: entender os critérios utilizados, validar decisões, aumentar confiança, reduzir retrabalho, cumprir normas regulatórias].
+Uma solução bem-sucedida deve permitir que [stakeholder] consiga [ação esperada, ex.: entender os critérios usados em uma decisão, justificar a decisão a terceiros, identificar quando não seguir a recomendação].
 
 ---
 
@@ -23,16 +23,17 @@ Apresente uma declaração que resuma o problema que este projeto visa resolver.
 | Elemento                     | Descrição                                                                                         |
 |------------------------------|---------------------------------------------------------------------------------------------------|
 | **O problema da**            | falta de explicabilidade em sistemas de aprendizado de máquina                                    |
-| **afeta**                    | Stakeholders impactados: clientes, usuários finais, reguladores, administradores                  |
-| **cujo o impacto é**         | descrição das consequências: falta de confiança, barreiras legais, dificuldade de adoção, dificuldade de validação e retrabalho|
-| **uma solução bem sucedida seria**| benefícios esperados: transparência, auditoria, aceitação do sistema |
+| **afeta**                    | Stakeholders impactados (exemplo: clientes, usuários finais, reguladores, administradores)                  |
+| **cujo o impacto é**         | consequências observadas (exemplo: dificuldade de justificar decisões aos clientes, dificuldade de adoção, questionamentos em auditorias, dificuldade de validação e retrabalho|
+| **uma solução bem sucedida seria**| o que a solução deve permitir (ex.: que o analista entenda e justifique cada recomendação) |
+
 
 ### 2.2 Declaração de Posicionamento da Explicabilidade (fazer para cada perfil de usuário que necessita de explicabilidade)
 
 | Elemento | Descrição |
 |----------|-----------|
 | **Para quem** | público-alvo do sistema |
-| **Para que** | necessitam compreender, auditar ou confiar nas decisões do sistema |
+| **Para que** | o que precisam fazer com as explicações (exemplo: justificar uma recusa ao cliente, verificar uma decisão antes de aprová-la) |
 | **O (nome do produto)** | é um(a) *[categoria do produto]* |
 | **Benefício principal** | O que o produto faz, seu benefício principal. |
 | **Alternativa concorrente** | *[principal alternativa concorrente]* |
@@ -46,14 +47,14 @@ Uma declaração de posicionamento comunica a intenção do produto e sua import
 
 descricao - Breve descrição do stakeholder e de sua relação com o sistema e/ou com a explicabilidade, conforme sustentado pelas informações disponíveis.
 
-responsabilidade - Síntese das principais responsabilidades, interesses ou expectativas do stakeholder em relação à explicabilidade do sistema, derivada das informações produzidas pelos Workers anteriores.
+responsabilidade - Síntese das principais responsabilidades, interesses ou expectativas do stakeholder em relação à explicabilidade do sistema, derivada das informações produzidas nas atividades anteriores.
 
 
 | Stakeholders                     | Descrição                                      | Responsabilidade                                        |
 |------------------------------|------------------------------------------------|---------------------------------------------------------|
 | **Cliente**                  | representa a organização que financia o projeto| Garante que os requisitos de explicabilidade estejam alinhados com metas de negócio|
-| **Usuário final**            | interage diretamente com o sistema             | Compreender e confiar nas explicações fornecidas                                   |
-| **Regulador**                | Órgão de auditoria ou legislação               | Garantir conformidade legal e ética |
+| **Usuário final**            | interage diretamente com o sistema             | Usar as explicações para tomar ou justificar decisões   |
+| **Regulador**                | Órgão de auditoria ou legislação               | Verificar se as decisões seguem as normas aplicáveis |
 
 
 ### 3.2 Ambiente do usuário
@@ -73,12 +74,12 @@ As plataformas e os ambientes que limitam a solução são registrados na seçã
 
 Evite detalhes de design. Mantenha as descrições das funcionalidades em um nível geral. Concentre-se nas capacidades necessárias e no porquê (não em como) elas devem ser implementadas. Registre a prioridade das partes interessadas e o lançamento planejado para cada funcionalidade.
 
-| Necessidade                     | Prioridade   |   Planned Release|
-|---------------------------------|--------------|-------------------------------------------|
-| **Entender decisões do sistema**               | Alta|   Versão 1  |
-| **Possibilitar auditoria regulatória**         | Alta |  Versão 1|
-| **Explicações ajustadas ao perfil do usuário** | Média | Versão 2|
-| **Garantir aderência a normas éticas e legais**| Alta |  Versão 1|
+| Necessidade                     | Prioridade            |   Planned Release|
+|---------------------------------|-----------------------|-------------------------------------------|
+| **Entender por que o sistema chegou a uma decisão**     | Alta|   Versão 1  |
+| **Justificar decisões aos clientes**                    | Alta |  Versão 1|
+| **Permitir que auditores verifiquem decisões passadas** | Alta | Versão 2|
+| **Receber explicações adequadas ao próprio perfil**     | Média |  Versão 1|
 
 
 ## 5. Restrições da Explicabilidade
