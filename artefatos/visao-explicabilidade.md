@@ -24,7 +24,7 @@ Apresente uma declaração que resuma o problema que este projeto visa resolver.
 |------------------------------|---------------------------------------------------------------------------------------------------|
 | **O problema da**            | falta de explicabilidade em sistemas de aprendizado de máquina                                    |
 | **afeta**                    | Stakeholders impactados (exemplo: clientes, usuários finais, reguladores, administradores)                  |
-| **cujo o impacto é**         | consequências observadas (exemplo: dificuldade de justificar decisões aos clientes, dificuldade de adoção, questionamentos em auditorias, dificuldade de validação e retrabalho|
+| **cujo impacto é**         | consequências observadas (exemplo: dificuldade de justificar decisões aos clientes, questionamentos em auditorias, “usuários deixam de usar as recomendações do sistema, dificuldade de validação e retrabalho)|
 | **uma solução bem sucedida seria**| o que a solução deve permitir (ex.: que o analista entenda e justifique cada recomendação) |
 
 
