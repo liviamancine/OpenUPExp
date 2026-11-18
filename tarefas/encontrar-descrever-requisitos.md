@@ -60,9 +60,15 @@ Engenheiro de Requisitos, Stakeholders, Especialistas de Domínio e Especialista
 - Evitar discutir soluções de explicabilidade neste momento; o foco deve permanecer na compreensão das necessidades.
 - Registrar dúvidas, conflitos e riscos identificados durante a elicitação.
 
-*Veja Guideline*
+*Técnicas sugeridas*
+- Entrevistas, questionários e workshops com os stakeholders.
+- Card-sorting e protótipos de baixa fidelidade para explorar as necessidades de explicação.
 
-Técnicas para obtenção de requisitos de explicabilidade??? - para mais informações
+*Perguntas úteis*
+- Que informação o usuário precisa para confiar em um resultado automática?
+- Quais informações o usuário precisa para entender os fatores mais relevantes envolvidos na decisão?
+
+
 
 ***2. Identifique e capture os termos do domínio***
 
