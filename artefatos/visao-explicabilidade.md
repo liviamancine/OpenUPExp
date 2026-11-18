@@ -57,11 +57,15 @@ responsabilidade - Síntese das principais responsabilidades, interesses ou expe
 
 
 ### 3.2 Ambiente do usuário
-Detalhar o contexto de uso: onde os usuários interagem com explicações, necessidades de interfaces, restrições regulatórias, plataformas existentes.
+Descreva como os usuários trabalham e em que situações interagem com as decisões do sistema e com as explicações.
 
-– Plataformas utilizadas (web, mobile, desktop).
-– Restrições (regulatórias, de tempo real, acessibilidade).
-– Integração necessária com sistemas existentes.
+**Exemplos:**
+- Em que momento da atividade o usuário recebe a decisão ou recomendação do sistema.
+- Se a interação ocorre sob pressão de tempo ou em situações críticas.
+- Se o usuário trabalha sozinho ou precisa justificar a decisão a outras pessoas (clientes, gestores, auditores).
+- Com que frequência o usuário interage com o sistema.
+
+As plataformas e os ambientes que limitam a solução são registrados na seção 5.2.
 
 ## 4. Visão Geral da Explicabilidade 
 
@@ -77,14 +81,9 @@ Evite detalhes de design. Mantenha as descrições das funcionalidades em um ní
 | **Garantir aderência a normas éticas e legais**| Alta |  Versão 1|
 
 
-## 5. Informações complementares relacionadas à Explicabilidade
+## 5. Restrições da Explicabilidade
 
-Esta seção descreve requisitos adicionais relacionados à explicabilidade que não foram capturados como aspectos de funcionalidade em um nível geral. Inclui padrões aplicáveis, requisitos técnicos, restrições de design, dependências, requisitos de documentação e critérios de qualidade relacionados às explicações geradas pelo sistema.
-
-O que fazer? 
-
-Levantar, analisar e documentar restrições regulatórias, técnicas, de qualidade, econômicas, temporais e de compatibilidade que impactam a explicabilidade, consolidando-as na seção "Requisitos Adicionais relacionadas à Explicabilidade" do Documento de Visão.
-
+Esta seção descreve as restrições que impactam a explicabilidade do sistema: normas e regulamentos aplicáveis, plataformas e ambientes de uso, dependências e assunções. Mantenha as restrições em alto nível; parâmetros detalhados, como tempos de resposta e critérios de qualidade das explicações, são definidos na Especificação.
 
 
 ---
@@ -100,67 +99,50 @@ Liste normas técnicas, diretrizes regulatórias e regras organizacionais que im
 
 ---
 
-### 5.2 Plataforma, Hardware e Desempenho
+### 5.2 Plataforma e Ambientes
 
-Descreve requisitos técnicos que influenciam a geração e apresentação de explicações.
+Descreva as plataformas e os ambientes em que as explicações serão disponibilizadas.
 
 **Exemplos:**
-- As explicações devem ser geradas em **no máximo X segundos** após a decisão do modelo.
-- O sistema deve manter explicações disponíveis mesmo em ambientes com **baixa conectividade**.
-- A solução deve operar em **plataformas web e desktop** sem perda de clareza.
+- Plataformas web e desktop.
+- Ambientes com baixa conectividade.
+- Integração com sistemas já utilizados pelos usuários.
 
 ---
 
-### 5.3 Qualidade das Explicações
+### 5.3 Dependências e Assunções
 
-Define parâmetros de qualidade esperados para as explicações, incluindo limites rígidos e faixas aceitáveis.
-
-**Exemplos:**
-- **Usabilidade:** a explicação deve ser compreendida em menos de **30 segundos**.
-- **Robustez:** explicações não devem variar de forma inconsistente entre execuções similares.
-- **Tolerância a falhas:** caso a explicação não possa ser gerada, o sistema deve fornecer uma mensagem interpretável.
-- **Consistência:** o formato da explicação deve manter padrão entre versões.
-
----
-
-### 5.4 Restrições de Design, Dependências e Assunções
-
-Identifica fatores externos que influenciam a viabilidade ou o formato das explicações.
+Identifica fatores externos que influenciam a viabilidade da explicabilidade.
 
 **Exemplos:**
-- A arquitetura deve permitir logging de explicabilidade para auditoria posterior.
+- A arquitetura deve permitir o registro de informações para auditoria posterior.
 - O módulo de explicabilidade depende da disponibilidade de uma API de inferência estável.
-- Caso a plataforma do usuário não suporte visualizações avançadas, deve ser fornecida uma explicação textual alternativa.
 
 > **Nota:** Se qualquer dependência ou assunção mudar, esta Visão deverá ser revisada.
 
 ---
 
-### 5.5 Documentação e Suporte
+### 5.4 Priorização das Restrições
 
-Define os materiais e orientações que devem acompanhar o sistema explicável.
-
-**Exemplos:**
-- Manual de interpretação das explicações.
-- Guia rápido para tomada de decisão.
-- Documentação de auditoria e critérios de explicabilidade.
-
----
-
-### 5.6 Priorização dos Outros Requisitos
-
-A tabela abaixo resume a prioridade desses requisitos, considerando estabilidade, benefício e risco.
 
 | Requisito | Prioridade | Planned Release | 
 |-----------|------------|--------------|
-| Tempo máximo de geração da explicação | Alta | Versão 1|
-| Conformidade ética e regulatória | Alta | Versão 1 | 
-| Guia de interpretação das explicações | Média | Versão 1 | 
-| Suporte para explicações visuais | Média | Versão 2 | 
+| Conformidade com normas e regulamentos aplicáveis | Alta | Versão 1 | 
+| Operação em plataformas web e desktops | Alta | Versão 1 | 
 
 ---
 ## 6. Definição do Escopo e Limites da Explicabilidade
 
+
+Especifique até onde a explicabilidade deve chegar, distinguindo os elementos do sistema que exigem explicação daqueles que não fazem parte do requisito.
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Decisões que requerem explicação** | decisões, recomendações ou previsões do sistema que devem ser explicadas |
+| **Stakeholders que recebem explicações** | perfis que receberão explicações (ex.: usuários finais, especialistas de domínio, auditores) |
+| **Pontos de interação** | onde a explicação será apresentada (ex.: interface, API, relatórios) |
+| **Informações envolvidas** | dados, atributos e resultados do modelo envolvidos no processo explicativo |
+| **Fora do escopo** | decisões, módulos ou stakeholders que não serão contemplados |
 
 
 
