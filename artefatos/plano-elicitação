@@ -1,1 +1,24 @@
+# Plano de Elicitação — Requisito de Explicabilidade
+> **Projeto:** *Nome do Projeto*  
+> **Data:** dd/mm/aaaa  
+> **Versão:** 1.0  
 
+---
+Este plano prepara a elicitação dos requisitos de explicabilidade. Ele é elaborado a partir da Visão da Explicabilidade aprovada e define
+o que será elicitado, de quais fontes e com quais técnicas.
+
+No OpenUP, a tarefa Encontrar e Descrever os Requisitos recomenda preparar as reuniões com os stakeholders para que sejam produtivas, 
+usando as informações da Visão. O OpenUPExp torna essa preparação explícita neste plano. A estrutura das seções 2 e 3 segue o SWEBOK v4.0 
+(cap. 1, seção 2 – Requirements Elicitation).
+
+A elicitação busca responder a quatro perguntas:
+
+O que precisa ser explicado?
+Quem precisa das explicações?
+Quando, ou em que contexto, as explicações são necessárias?
+Quais requisitos complementares influenciam a explicabilidade?
+
+Mantenha o plano no nível da Elicitação: concentre-se nas necessidades de explicabilidade. Conteúdo, formato e mecanismos das explicações
+são tratados na Análise e na Especificação.
+
+---
