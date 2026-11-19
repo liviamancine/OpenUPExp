@@ -195,7 +195,8 @@ Engenheiro de Requisitos.
 **O que fazer**
 
 - Fazer revisão formal da Visão da Explicabilidade com stakeholders e time técnico; coletar aprovações, feedbacks e registrar decisões.
-- Ajustar [Documento de Visão de Explicabilidade](../tarefas/documento-requisito.md), conforme consenso.
+- Ajustar o [Documento de Visão da Explicabilidade](../artefatos/visao-explicabilidade.md), conforme consenso.
+- Se a Visão não for aprovada, registrar os problemas identificados (Review Findings) e indicar qual parte do trabalho deve ser revista: a preparação (1.1) ou o desenvolvimento (1.2) da Visão.
 
 **Quem**
 
